@@ -1,0 +1,6090 @@
+[
+    {
+        "name": "chirari",
+        "notation": "ちらり",
+        "trans": [
+            "ちらり②③",
+            "（稍微看到）一闪，一晃；（稍微听到）略微，偶尔"
+        ]
+    },
+    {
+        "name": "oto",
+        "notation": "音",
+        "trans": [
+            "おと②",
+            "（非生命物体发出的）声音"
+        ]
+    },
+    {
+        "name": "komaashyaru",
+        "notation": "コマーシャル",
+        "trans": [
+            "コマーシャル②",
+            "(英) commercial 商业广告"
+        ]
+    },
+    {
+        "name": "kiraku",
+        "notation": "気楽",
+        "trans": [
+            "きらく⓪",
+            "轻松，安闲"
+        ]
+    },
+    {
+        "name": "komeru",
+        "notation": "込める",
+        "trans": [
+            "こめる②",
+            "集中；包括在内"
+        ]
+    },
+    {
+        "name": "honno",
+        "notation": "本の〜",
+        "trans": [
+            "ほんの⓪",
+            "少许，一点点"
+        ]
+    },
+    {
+        "name": "oite",
+        "notation": "おいて",
+        "trans": [
+            "おいて",
+            "在……，于……"
+        ]
+    },
+    {
+        "name": "darui",
+        "notation": "だるい",
+        "trans": [
+            "だるい②⓪",
+            "发倦，慵懒"
+        ]
+    },
+    {
+        "name": "hyottoshitara",
+        "notation": "ひょっとしたら",
+        "trans": [
+            "ひょっとしたら⑤",
+            "或许"
+        ]
+    },
+    {
+        "name": "yarinaosu",
+        "notation": "やり直す",
+        "trans": [
+            "やりなおす④",
+            "重做，再做"
+        ]
+    },
+    {
+        "name": "ippen",
+        "notation": "一遍",
+        "trans": [
+            "いっぺん③⓪",
+            "一遍；一下子"
+        ]
+    },
+    {
+        "name": "kaishyuu",
+        "notation": "回収",
+        "trans": [
+            "かいしゅう⓪",
+            "回收"
+        ]
+    },
+    {
+        "name": "shiya",
+        "notation": "視野",
+        "trans": [
+            "しや①",
+            "视野；眼界"
+        ]
+    },
+    {
+        "name": "temoto",
+        "notation": "手元",
+        "trans": [
+            "てもと③",
+            "手头，身边"
+        ]
+    },
+    {
+        "name": "tehai",
+        "notation": "手配",
+        "trans": [
+            "てはい①②",
+            "筹备，安排"
+        ]
+    },
+    {
+        "name": "furi",
+        "notation": "振り",
+        "trans": [
+            "ふり②",
+            "挥动；（假装的）样子"
+        ]
+    },
+    {
+        "name": "totonoeru",
+        "notation": "整える",
+        "trans": [
+            "ととのえる④③",
+            "整理；准备好；达成"
+        ]
+    },
+    {
+        "name": "kumiawaseru",
+        "notation": "組み合わせる",
+        "trans": [
+            "くみあわせる⑤⓪",
+            "搭配，配合"
+        ]
+    },
+    {
+        "name": "mashi",
+        "notation": "増し",
+        "trans": [
+            "まし⓪",
+            "增加；胜过"
+        ]
+    },
+    {
+        "name": "kizuku",
+        "notation": "築く",
+        "trans": [
+            "きずく②",
+            "修筑；确立"
+        ]
+    },
+    {
+        "name": "bakabakashii",
+        "notation": "馬鹿馬鹿しい",
+        "trans": [
+            "ばかばかしい⑤",
+            "无聊的；愚蠢的；荒谬的"
+        ]
+    },
+    {
+        "name": "hassei",
+        "notation": "発生",
+        "trans": [
+            "はっせい⓪",
+            "发生；出现"
+        ]
+    },
+    {
+        "name": "mudazukai",
+        "notation": "無駄遣い",
+        "trans": [
+            "むだづかい③",
+            "浪费，乱花钱"
+        ]
+    },
+    {
+        "name": "meshita",
+        "notation": "目下",
+        "trans": [
+            "めした③⓪",
+            "下级；晚辈"
+        ]
+    },
+    {
+        "name": "toiawaseru",
+        "notation": "問い合わせる",
+        "trans": [
+            "といあわせる⑤",
+            "打听，询问"
+        ]
+    },
+    {
+        "name": "morasu",
+        "notation": "漏らす",
+        "trans": [
+            "もらす②",
+            "把……泄漏；把……遗漏"
+        ]
+    },
+    {
+        "name": "dounika",
+        "notation": "どうにか",
+        "trans": [
+            "どうにか①",
+            "总算，勉强；设法"
+        ]
+    },
+    {
+        "name": "bisshyori",
+        "notation": "びっしょり",
+        "trans": [
+            "びっしょり③",
+            "湿透，湿淋淋"
+        ]
+    },
+    {
+        "name": "buumu",
+        "notation": "ブーム",
+        "trans": [
+            "ブーム①",
+            "(英) boom 潮流，……热"
+        ]
+    },
+    {
+        "name": "masukomi",
+        "notation": "マスコミ",
+        "trans": [
+            "マスコミ⓪",
+            "(英) mass communication 大众传媒，媒体"
+        ]
+    },
+    {
+        "name": "keiki",
+        "notation": "契機",
+        "trans": [
+            "けいき①",
+            "契机，转机"
+        ]
+    },
+    {
+        "name": "shyusse",
+        "notation": "出世",
+        "trans": [
+            "しゅっせ⓪",
+            "出人头地；升职"
+        ]
+    },
+    {
+        "name": "shyoyuu",
+        "notation": "所有",
+        "trans": [
+            "しょゆう⓪",
+            "所有，所拥有"
+        ]
+    },
+    {
+        "name": "hansuru",
+        "notation": "反する",
+        "trans": [
+            "はんする③",
+            "与……相反；违反；背叛"
+        ]
+    },
+    {
+        "name": "gatai",
+        "notation": "〜難い",
+        "trans": [
+            "がたい",
+            "难以……，不容易……"
+        ]
+    },
+    {
+        "name": "ayafuya",
+        "notation": "あやふや",
+        "trans": [
+            "あやふや⓪",
+            "模棱两可"
+        ]
+    },
+    {
+        "name": "iikagen",
+        "notation": "いい加減",
+        "trans": [
+            "いいかげん⓪",
+            "适度；敷衍，马马虎虎；靠不住"
+        ]
+    },
+    {
+        "name": "ijiru",
+        "notation": "いじる",
+        "trans": [
+            "いじる②",
+            "摆弄；玩赏"
+        ]
+    },
+    {
+        "name": "utsumuku",
+        "notation": "うつむく",
+        "trans": [
+            "うつむく③⓪",
+            "俯首，垂下头来"
+        ]
+    },
+    {
+        "name": "omake",
+        "notation": "おまけ",
+        "trans": [
+            "おまけ⓪",
+            "赠品，附录"
+        ]
+    },
+    {
+        "name": "kasuka",
+        "notation": "かすか",
+        "trans": [
+            "かすか①",
+            "微弱的，模糊的"
+        ]
+    },
+    {
+        "name": "katsute",
+        "notation": "かつて",
+        "trans": [
+            "かつて①",
+            "曾经，过去"
+        ]
+    },
+    {
+        "name": "kanau",
+        "notation": "叶[かな]う",
+        "trans": [
+            "かなう②",
+            "实现，达到"
+        ]
+    },
+    {
+        "name": "kabau",
+        "notation": "かばう",
+        "trans": [
+            "かばう②",
+            "包庇；保护"
+        ]
+    },
+    {
+        "name": "kichyoumen",
+        "notation": "几[き]帳面",
+        "trans": [
+            "きちょうめん④②⓪",
+            "认真，一丝不苟"
+        ]
+    },
+    {
+        "name": "kippari",
+        "notation": "きっぱり",
+        "trans": [
+            "きっぱり③",
+            "断然，干脆"
+        ]
+    },
+    {
+        "name": "kuji",
+        "notation": "くじ",
+        "trans": [
+            "くじ①",
+            "签，抽签，抓阄"
+        ]
+    },
+    {
+        "name": "kukkiri",
+        "notation": "くっきり",
+        "trans": [
+            "くっきり③",
+            "鲜明，清楚"
+        ]
+    },
+    {
+        "name": "gutto",
+        "notation": "ぐっと",
+        "trans": [
+            "ぐっと⓪①",
+            "使劲儿，一口气；……得多"
+        ]
+    },
+    {
+        "name": "kodawaru",
+        "notation": "こだわる",
+        "trans": [
+            "こだわる③",
+            "拘泥；讲究"
+        ]
+    },
+    {
+        "name": "kotsu",
+        "notation": "コツ",
+        "trans": [
+            "こつ②",
+            "要领，要害"
+        ]
+    },
+    {
+        "name": "sazo",
+        "notation": "さぞ",
+        "trans": [
+            "さぞ①",
+            "想必，一定"
+        ]
+    },
+    {
+        "name": "satto",
+        "notation": "さっと",
+        "trans": [
+            "さっと①⓪",
+            "突然；迅速，一下子"
+        ]
+    },
+    {
+        "name": "jikkuri",
+        "notation": "じっくり",
+        "trans": [
+            "じっくり③",
+            "慢慢地，仔细地"
+        ]
+    },
+    {
+        "name": "shitsuke",
+        "notation": "しつけ",
+        "trans": [
+            "しつけ⓪",
+            "（对孩子的）教育，教养"
+        ]
+    },
+    {
+        "name": "jyanru",
+        "notation": "ジャンル",
+        "trans": [
+            "ジャンル①",
+            "(法) genre 种类，体裁"
+        ]
+    },
+    {
+        "name": "sukuu",
+        "notation": "掬[すく]う",
+        "trans": [
+            "すくう⓪",
+            "捞，舀；抄起"
+        ]
+    },
+    {
+        "name": "tokaku",
+        "notation": "とかく",
+        "trans": [
+            "とかく⓪",
+            "动不动，总是；种种，这个那个"
+        ]
+    },
+    {
+        "name": "dorai",
+        "notation": "ドライ",
+        "trans": [
+            "ドライ②",
+            "(英) dry 干燥；理智，冷冰冰"
+        ]
+    },
+    {
+        "name": "toraburu",
+        "notation": "トラブル",
+        "trans": [
+            "トラブル②",
+            "(英) trouble 麻烦，纠纷；故障"
+        ]
+    },
+    {
+        "name": "toriaezu",
+        "notation": "とりあえず",
+        "trans": [
+            "とりあえず③",
+            "赶忙，赶快；暂时，姑且"
+        ]
+    },
+    {
+        "name": "nameru",
+        "notation": "舐[な]める",
+        "trans": [
+            "なめる②",
+            "舔，品尝；小看，轻视"
+        ]
+    },
+    {
+        "name": "baramaku",
+        "notation": "ばらまく",
+        "trans": [
+            "ばらまく③",
+            "播撒；散财"
+        ]
+    },
+    {
+        "name": "fundanni",
+        "notation": "ふんだんに",
+        "trans": [
+            "ふんだんに⑤①",
+            "充分地，有余地"
+        ]
+    },
+    {
+        "name": "hotto",
+        "notation": "ほっと",
+        "trans": [
+            "ほっと③⓪",
+            "放心，安心"
+        ]
+    },
+    {
+        "name": "hotori",
+        "notation": "ほとり",
+        "trans": [
+            "ほとり⓪③",
+            "畔，河流、池塘等的旁边"
+        ]
+    },
+    {
+        "name": "mashite",
+        "notation": "まして",
+        "trans": [
+            "まして①⓪",
+            "何况，况且"
+        ]
+    },
+    {
+        "name": "mekuru",
+        "notation": "めくる",
+        "trans": [
+            "めくる⓪",
+            "翻起，揭起"
+        ]
+    },
+    {
+        "name": "motarasu",
+        "notation": "もたらす",
+        "trans": [
+            "もたらす③",
+            "带来；造成"
+        ]
+    },
+    {
+        "name": "yaritoosu",
+        "notation": "やり通す",
+        "trans": [
+            "やりとおす④",
+            "做完，做到最后"
+        ]
+    },
+    {
+        "name": "ito",
+        "notation": "意図",
+        "trans": [
+            "いと①",
+            "意图；打算（做）"
+        ]
+    },
+    {
+        "name": "enkatsu",
+        "notation": "円滑",
+        "trans": [
+            "えんかつ⓪",
+            "圆滑，顺利"
+        ]
+    },
+    {
+        "name": "nobe",
+        "notation": "延べ",
+        "trans": [
+            "のべ①②",
+            "总计，共计"
+        ]
+    },
+    {
+        "name": "oshikomu",
+        "notation": "押し込む",
+        "trans": [
+            "おしこむ③",
+            "闯入；硬塞"
+        ]
+    },
+    {
+        "name": "neiro",
+        "notation": "音色",
+        "trans": [
+            "ねいろ⓪",
+            "音色"
+        ]
+    },
+    {
+        "name": "kari",
+        "notation": "仮〜",
+        "trans": [
+            "かり⓪",
+            "临时的；假的"
+        ]
+    },
+    {
+        "name": "kaso",
+        "notation": "過疎",
+        "trans": [
+            "かそ①",
+            "人口过少"
+        ]
+    },
+    {
+        "name": "kokoroyoi",
+        "notation": "快い",
+        "trans": [
+            "こころよい④",
+            "心情舒畅的；爽快的"
+        ]
+    },
+    {
+        "name": "gaisuru",
+        "notation": "害する",
+        "trans": [
+            "がいする③",
+            "损害；妨碍"
+        ]
+    },
+    {
+        "name": "kakusa",
+        "notation": "格差",
+        "trans": [
+            "かくさ①",
+            "差距，差别"
+        ]
+    },
+    {
+        "name": "hedataru",
+        "notation": "隔たる",
+        "trans": [
+            "へだたる③",
+            "相隔；有差距；疏远"
+        ]
+    },
+    {
+        "name": "kansei",
+        "notation": "歓声",
+        "trans": [
+            "かんせい⓪",
+            "欢声，欢呼声"
+        ]
+    },
+    {
+        "name": "marugoto",
+        "notation": "丸ごと",
+        "trans": [
+            "まるごと⓪",
+            "完整，整个儿地"
+        ]
+    },
+    {
+        "name": "kaotsuki",
+        "notation": "顔付き",
+        "trans": [
+            "かおつき⓪",
+            "相貌，面部神情"
+        ]
+    },
+    {
+        "name": "kiki",
+        "notation": "危機",
+        "trans": [
+            "きき①②",
+            "危机"
+        ]
+    },
+    {
+        "name": "kigaru",
+        "notation": "気軽",
+        "trans": [
+            "きがる⓪",
+            "爽快地；轻松愉快地；随意地"
+        ]
+    },
+    {
+        "name": "oyobu",
+        "notation": "及ぶ",
+        "trans": [
+            "およぶ⓪②",
+            "波及；达到；比得上"
+        ]
+    },
+    {
+        "name": "kyuushyoku",
+        "notation": "給食",
+        "trans": [
+            "きゅうしょく⓪",
+            "供餐，提供饮食"
+        ]
+    },
+    {
+        "name": "osore",
+        "notation": "恐れ",
+        "trans": [
+            "おそれ③",
+            "恐惧；忧虑，担心"
+        ]
+    },
+    {
+        "name": "osoreiru",
+        "notation": "恐れ入る",
+        "trans": [
+            "おそれいる②",
+            "折服，拜服；十分抱歉"
+        ]
+    },
+    {
+        "name": "guchi",
+        "notation": "愚痴",
+        "trans": [
+            "ぐち⓪",
+            "抱怨，发牢骚"
+        ]
+    },
+    {
+        "name": "tazusawaru",
+        "notation": "携わる",
+        "trans": [
+            "たずさわる④",
+            "从事"
+        ]
+    },
+    {
+        "name": "kenyaku",
+        "notation": "倹約",
+        "trans": [
+            "けんやく⓪",
+            "节省，节俭"
+        ]
+    },
+    {
+        "name": "tatemae",
+        "notation": "建前",
+        "trans": [
+            "たてまえ②③",
+            "场面话，奉承"
+        ]
+    },
+    {
+        "name": "mikomi",
+        "notation": "見込み",
+        "trans": [
+            "みこみ⓪",
+            "可能性；预料"
+        ]
+    },
+    {
+        "name": "mitsumori",
+        "notation": "見積もり",
+        "trans": [
+            "みつもり⓪",
+            "估算，估价"
+        ]
+    },
+    {
+        "name": "miwatasu",
+        "notation": "見渡す",
+        "trans": [
+            "みわたす③⓪",
+            "远望，展望"
+        ]
+    },
+    {
+        "name": "iiwake",
+        "notation": "言い訳",
+        "trans": [
+            "いいわけ⓪",
+            "辩解，借口"
+        ]
+    },
+    {
+        "name": "kobetsu",
+        "notation": "個別",
+        "trans": [
+            "こべつ⓪",
+            "个别，单个"
+        ]
+    },
+    {
+        "name": "katameru",
+        "notation": "固める",
+        "trans": [
+            "かためる⓪",
+            "使……坚硬；坚定；巩固"
+        ]
+    },
+    {
+        "name": "kouritsu",
+        "notation": "公立",
+        "trans": [
+            "こうりつ⓪",
+            "公立"
+        ]
+    },
+    {
+        "name": "kikime",
+        "notation": "効き目",
+        "trans": [
+            "ききめ⓪",
+            "效力，效用"
+        ]
+    },
+    {
+        "name": "koui",
+        "notation": "好意",
+        "trans": [
+            "こうい①",
+            "好意，善意"
+        ]
+    },
+    {
+        "name": "koukyou",
+        "notation": "好況",
+        "trans": [
+            "こうきょう⓪",
+            "繁荣，景气"
+        ]
+    },
+    {
+        "name": "konki",
+        "notation": "根気",
+        "trans": [
+            "こんき⓪",
+            "毅力，耐性"
+        ]
+    },
+    {
+        "name": "sashitsukaeru",
+        "notation": "差し支える",
+        "trans": [
+            "さしつかえる⓪⑤",
+            "有妨碍，不方便"
+        ]
+    },
+    {
+        "name": "moyoosu",
+        "notation": "催す",
+        "trans": [
+            "もよおす③⓪",
+            "引起；举办；感觉要"
+        ]
+    },
+    {
+        "name": "saiku",
+        "notation": "細工",
+        "trans": [
+            "さいく③⓪",
+            "手工艺品；玩弄技巧；做好准备"
+        ]
+    },
+    {
+        "name": "surechigai",
+        "notation": "擦れ違い",
+        "trans": [
+            "すれちがい④⓪",
+            "擦肩而过；不一致，分歧"
+        ]
+    },
+    {
+        "name": "shiage",
+        "notation": "仕上げ",
+        "trans": [
+            "しあげ⓪",
+            "做完，完成"
+        ]
+    },
+    {
+        "name": "shikumi",
+        "notation": "仕組み",
+        "trans": [
+            "しくみ⓪",
+            "结构，构造"
+        ]
+    },
+    {
+        "name": "shiireru",
+        "notation": "仕入れる",
+        "trans": [
+            "しいれる③",
+            "进货"
+        ]
+    },
+    {
+        "name": "shiyou",
+        "notation": "仕様",
+        "trans": [
+            "しよう⓪",
+            "方式，方法；规格"
+        ]
+    },
+    {
+        "name": "shimei",
+        "notation": "使命",
+        "trans": [
+            "しめい①",
+            "使命"
+        ]
+    },
+    {
+        "name": "jyakkan",
+        "notation": "若干",
+        "trans": [
+            "じゃっかん⓪",
+            "若干，多少，有些"
+        ]
+    },
+    {
+        "name": "tegaru",
+        "notation": "手軽",
+        "trans": [
+            "てがる⓪",
+            "简便，轻易"
+        ]
+    },
+    {
+        "name": "teate",
+        "notation": "手当て",
+        "trans": [
+            "てあて①",
+            "津贴，补贴；治疗，医疗；对付的办法"
+        ]
+    },
+    {
+        "name": "tehon",
+        "notation": "手本",
+        "trans": [
+            "てほん②",
+            "字帖，画帖；模范，榜样"
+        ]
+    },
+    {
+        "name": "kotoni",
+        "notation": "殊に",
+        "trans": [
+            "ことに①",
+            "特别，格外"
+        ]
+    },
+    {
+        "name": "uketsukeru",
+        "notation": "受け付ける",
+        "trans": [
+            "うけつける④⓪",
+            "受理（申请）；吸收（营养、水分等）"
+        ]
+    },
+    {
+        "name": "shyuushi",
+        "notation": "終始",
+        "trans": [
+            "しゅうし①",
+            "始终"
+        ]
+    },
+    {
+        "name": "jyuurai",
+        "notation": "従来",
+        "trans": [
+            "じゅうらい①",
+            "过去，以往"
+        ]
+    },
+    {
+        "name": "omonjiru",
+        "notation": "重んじる",
+        "trans": [
+            "おもんじる⓪④",
+            "重视"
+        ]
+    },
+    {
+        "name": "shyukumei",
+        "notation": "宿命",
+        "trans": [
+            "しゅくめい⓪",
+            "宿命，命运"
+        ]
+    },
+    {
+        "name": "kakitoru",
+        "notation": "書き取る",
+        "trans": [
+            "かきとる③⓪",
+            "照原文写下来；记录，听写"
+        ]
+    },
+    {
+        "name": "uwamawaru",
+        "notation": "上回る",
+        "trans": [
+            "うわまわる④⓪",
+            "超出，超过"
+        ]
+    },
+    {
+        "name": "nasakenai",
+        "notation": "情けない",
+        "trans": [
+            "なさけない④",
+            "可悲的"
+        ]
+    },
+    {
+        "name": "kokorozuyoi",
+        "notation": "心強い",
+        "trans": [
+            "こころづよい⑤",
+            "有把握的，心里有底的"
+        ]
+    },
+    {
+        "name": "kokoroe",
+        "notation": "心得",
+        "trans": [
+            "こころえ③④",
+            "心得，体会；须知"
+        ]
+    },
+    {
+        "name": "shinbou",
+        "notation": "辛抱",
+        "trans": [
+            "しんぼう①",
+            "忍耐"
+        ]
+    },
+    {
+        "name": "furuwaseru",
+        "notation": "震わせる",
+        "trans": [
+            "ふるわせる⓪",
+            "使……颤抖"
+        ]
+    },
+    {
+        "name": "hitome",
+        "notation": "人目",
+        "trans": [
+            "ひとめ⓪",
+            "他人的眼睛，世人的眼光"
+        ]
+    },
+    {
+        "name": "tsukiru",
+        "notation": "尽きる",
+        "trans": [
+            "つきる②",
+            "尽，完；到头，穷尽"
+        ]
+    },
+    {
+        "name": "tsukusu",
+        "notation": "尽くす",
+        "trans": [
+            "つくす②",
+            "尽力，效力"
+        ]
+    },
+    {
+        "name": "togeru",
+        "notation": "遂げる",
+        "trans": [
+            "とげる⓪②",
+            "完成，达到"
+        ]
+    },
+    {
+        "name": "suso",
+        "notation": "裾",
+        "trans": [
+            "すそ⓪",
+            "下摆；山麓；末端"
+        ]
+    },
+    {
+        "name": "naritatsu",
+        "notation": "成り立つ",
+        "trans": [
+            "なりたつ③⓪",
+            "构成；成立"
+        ]
+    },
+    {
+        "name": "seizen",
+        "notation": "整然",
+        "trans": [
+            "せいぜん⓪",
+            "井井有条，秩序井然"
+        ]
+    },
+    {
+        "name": "ikigai",
+        "notation": "生きがい",
+        "trans": [
+            "いきがい③⓪",
+            "生存的意义"
+        ]
+    },
+    {
+        "name": "moriagaru",
+        "notation": "盛り上がる",
+        "trans": [
+            "もりあがる④",
+            "堆起，隆起；气氛高涨"
+        ]
+    },
+    {
+        "name": "shimiru",
+        "notation": "染みる",
+        "trans": [
+            "しみる⓪",
+            "渗；刺痛；深感；沾染"
+        ]
+    },
+    {
+        "name": "zentei",
+        "notation": "前提",
+        "trans": [
+            "ぜんてい⓪",
+            "前提"
+        ]
+    },
+    {
+        "name": "subayai",
+        "notation": "素早い",
+        "trans": [
+            "すばやい③",
+            "迅速的，敏捷的"
+        ]
+    },
+    {
+        "name": "fusawashii",
+        "notation": "相応しい",
+        "trans": [
+            "ふさわしい④",
+            "合适的，相称的"
+        ]
+    },
+    {
+        "name": "sumiyaka",
+        "notation": "速やか",
+        "trans": [
+            "すみやか②",
+            "快速的，迅速的"
+        ]
+    },
+    {
+        "name": "uchiakeru",
+        "notation": "打ち明ける",
+        "trans": [
+            "うちあける⓪④",
+            "如实说出"
+        ]
+    },
+    {
+        "name": "karadatsuki",
+        "notation": "体付き",
+        "trans": [
+            "からだつき⓪③",
+            "体形，体格"
+        ]
+    },
+    {
+        "name": "taishyo",
+        "notation": "対処",
+        "trans": [
+            "たいしょ①",
+            "应付，对付"
+        ]
+    },
+    {
+        "name": "machiawase",
+        "notation": "待ち合わせ",
+        "trans": [
+            "まちあわせ⓪",
+            "等待，会面"
+        ]
+    },
+    {
+        "name": "machinozomu",
+        "notation": "待ち望む",
+        "trans": [
+            "まちのぞむ④",
+            "盼望，殷切希望"
+        ]
+    },
+    {
+        "name": "oomaka",
+        "notation": "大まか",
+        "trans": [
+            "おおまか⓪",
+            "粗略，粗枝大叶"
+        ]
+    },
+    {
+        "name": "tassei",
+        "notation": "達成",
+        "trans": [
+            "たっせい⓪",
+            "达到，完成"
+        ]
+    },
+    {
+        "name": "nebiki",
+        "notation": "値引き",
+        "trans": [
+            "ねびき⓪",
+            "降价，打折"
+        ]
+    },
+    {
+        "name": "osokutomo",
+        "notation": "遅くとも",
+        "trans": [
+            "おそくとも②",
+            "最晚，最迟"
+        ]
+    },
+    {
+        "name": "chyuukoku",
+        "notation": "忠告",
+        "trans": [
+            "ちゅうこく⓪",
+            "忠告"
+        ]
+    },
+    {
+        "name": "nigedasu",
+        "notation": "逃げ出す",
+        "trans": [
+            "にげだす⓪③",
+            "逃离；开始逃跑"
+        ]
+    },
+    {
+        "name": "dokuji",
+        "notation": "独自",
+        "trans": [
+            "どくじ⓪①",
+            "独自；独特"
+        ]
+    },
+    {
+        "name": "higoro",
+        "notation": "日頃",
+        "trans": [
+            "ひごろ⓪",
+            "平常，平素"
+        ]
+    },
+    {
+        "name": "haishyaku",
+        "notation": "拝借",
+        "trans": [
+            "はいしゃく⓪",
+            "（“借りる”的自谦语）借"
+        ]
+    },
+    {
+        "name": "fukkyuu",
+        "notation": "復旧",
+        "trans": [
+            "ふっきゅう⓪",
+            "复原，恢复原状"
+        ]
+    },
+    {
+        "name": "funshitsu",
+        "notation": "紛失",
+        "trans": [
+            "ふんしつ⓪",
+            "遗失，丢失"
+        ]
+    },
+    {
+        "name": "kikitori",
+        "notation": "聞き取り",
+        "trans": [
+            "ききとり⓪",
+            "听取；听懂"
+        ]
+    },
+    {
+        "name": "heikou",
+        "notation": "閉口",
+        "trans": [
+            "へいこう⓪",
+            "默不作声；受不了"
+        ]
+    },
+    {
+        "name": "tamotsu",
+        "notation": "保つ",
+        "trans": [
+            "たもつ②",
+            "维持，保持；维护"
+        ]
+    },
+    {
+        "name": "houridasu",
+        "notation": "放り出す",
+        "trans": [
+            "ほうりだす④",
+            "扔出；丢下不管；开除"
+        ]
+    },
+    {
+        "name": "houshiki",
+        "notation": "方式",
+        "trans": [
+            "ほうしき⓪",
+            "方式"
+        ]
+    },
+    {
+        "name": "nozomashii",
+        "notation": "望ましい",
+        "trans": [
+            "のぞましい④⓪",
+            "所希望的"
+        ]
+    },
+    {
+        "name": "fukureru",
+        "notation": "膨れる",
+        "trans": [
+            "ふくれる⓪",
+            "膨胀，鼓起；不高兴"
+        ]
+    },
+    {
+        "name": "bannou",
+        "notation": "万能",
+        "trans": [
+            "ばんのう⓪",
+            "万能，全能"
+        ]
+    },
+    {
+        "name": "mitasu",
+        "notation": "満たす",
+        "trans": [
+            "みたす②",
+            "充满，填满；满足"
+        ]
+    },
+    {
+        "name": "missetsu",
+        "notation": "密接",
+        "trans": [
+            "みっせつ⓪",
+            "关系密切；紧挨"
+        ]
+    },
+    {
+        "name": "metsuki",
+        "notation": "目付き",
+        "trans": [
+            "めつき①",
+            "眼神，目光"
+        ]
+    },
+    {
+        "name": "yofukashi",
+        "notation": "夜更かし",
+        "trans": [
+            "よふかし②③",
+            "熬夜"
+        ]
+    },
+    {
+        "name": "yokin",
+        "notation": "預金",
+        "trans": [
+            "よきん⓪",
+            "存款，存钱"
+        ]
+    },
+    {
+        "name": "ochikomu",
+        "notation": "落ち込む",
+        "trans": [
+            "おちこむ⓪③",
+            "掉进；坍塌；（情绪）低落"
+        ]
+    },
+    {
+        "name": "hagemasu",
+        "notation": "励ます",
+        "trans": [
+            "はげます③",
+            "鼓励；加强"
+        ]
+    },
+    {
+        "name": "aete",
+        "notation": "あえて",
+        "trans": [
+            "あえて①",
+            "敢于；并（不）"
+        ]
+    },
+    {
+        "name": "akuseru",
+        "notation": "アクセル",
+        "trans": [
+            "アクセル①",
+            "(英) accelerator 加速器，油门"
+        ]
+    },
+    {
+        "name": "akudoi",
+        "notation": "あくどい",
+        "trans": [
+            "あくどい③",
+            "过艳的；（味道）过浓的；恶劣的"
+        ]
+    },
+    {
+        "name": "aza",
+        "notation": "痣[あざ]",
+        "trans": [
+            "あざ②",
+            "痣，斑痕"
+        ]
+    },
+    {
+        "name": "azawarau",
+        "notation": "嘲[あざ]笑う",
+        "trans": [
+            "あざわらう④",
+            "嘲笑"
+        ]
+    },
+    {
+        "name": "aseru",
+        "notation": "褪[あ]せる",
+        "trans": [
+            "あせる②",
+            "褪色；衰退"
+        ]
+    },
+    {
+        "name": "akkenai",
+        "notation": "あっけない",
+        "trans": [
+            "あっけない④",
+            "不尽兴，没劲"
+        ]
+    },
+    {
+        "name": "atsuraeru",
+        "notation": "あつらえる",
+        "trans": [
+            "あつらえる④③",
+            "定做"
+        ]
+    },
+    {
+        "name": "abekobe",
+        "notation": "あべこべ",
+        "trans": [
+            "あべこべ⓪",
+            "颠倒，相反"
+        ]
+    },
+    {
+        "name": "arakajime",
+        "notation": "あらかじめ",
+        "trans": [
+            "あらかじめ⓪",
+            "事先"
+        ]
+    },
+    {
+        "name": "arinomama",
+        "notation": "ありのまま",
+        "trans": [
+            "ありのまま⑤",
+            "如实"
+        ]
+    },
+    {
+        "name": "arifureru",
+        "notation": "ありふれる",
+        "trans": [
+            "ありふれる⓪④",
+            "常有，司空见惯"
+        ]
+    },
+    {
+        "name": "ikani",
+        "notation": "いかに",
+        "trans": [
+            "いかに②",
+            "如何；无论怎么"
+        ]
+    },
+    {
+        "name": "iyaiya",
+        "notation": "いやいや",
+        "trans": [
+            "いやいや⓪",
+            "不情愿，勉强"
+        ]
+    },
+    {
+        "name": "iyani",
+        "notation": "いやに",
+        "trans": [
+            "いやに②",
+            "特别，异常"
+        ]
+    },
+    {
+        "name": "uttoushii",
+        "notation": "うっとうしい",
+        "trans": [
+            "うっとうしい⑤",
+            "郁闷的，阴郁的"
+        ]
+    },
+    {
+        "name": "unzari",
+        "notation": "うんざり",
+        "trans": [
+            "うんざり③",
+            "厌倦，厌烦"
+        ]
+    },
+    {
+        "name": "enkyoku",
+        "notation": "婉[えん]曲",
+        "trans": [
+            "えんきょく⓪",
+            "委婉"
+        ]
+    },
+    {
+        "name": "odateru",
+        "notation": "おだてる",
+        "trans": [
+            "おだてる⓪",
+            "怂恿；奉承"
+        ]
+    },
+    {
+        "name": "odoodo",
+        "notation": "おどおど",
+        "trans": [
+            "おどおど①",
+            "战战兢兢，惴惴不安"
+        ]
+    },
+    {
+        "name": "onozukara",
+        "notation": "おのずから",
+        "trans": [
+            "おのずから⓪②",
+            "自然地，自动地"
+        ]
+    },
+    {
+        "name": "obieru",
+        "notation": "おびえる",
+        "trans": [
+            "おびえる⓪③",
+            "胆怯，恐惧"
+        ]
+    },
+    {
+        "name": "obitadashii",
+        "notation": "おびただしい",
+        "trans": [
+            "おびただしい⑤",
+            "大量，浩瀚；非常"
+        ]
+    },
+    {
+        "name": "orosoka",
+        "notation": "おろそか",
+        "trans": [
+            "おろそか②",
+            "敷衍，马虎"
+        ]
+    },
+    {
+        "name": "oteage",
+        "notation": "お手上げ",
+        "trans": [
+            "おてあげ⓪",
+            "束手无策"
+        ]
+    },
+    {
+        "name": "kakimawasu",
+        "notation": "かき回す",
+        "trans": [
+            "かきまわす⓪④",
+            "搅拌；搅乱"
+        ]
+    },
+    {
+        "name": "kasabaru",
+        "notation": "かさばる",
+        "trans": [
+            "かさばる③",
+            "体积大"
+        ]
+    },
+    {
+        "name": "kasamu",
+        "notation": "かさむ",
+        "trans": [
+            "かさむ⓪②",
+            "（体积）增大；（费用）增多"
+        ]
+    },
+    {
+        "name": "kasumu",
+        "notation": "霞[かす]む",
+        "trans": [
+            "かすむ⓪",
+            "朦胧；不显眼"
+        ]
+    },
+    {
+        "name": "kasuru",
+        "notation": "掠[かす]る",
+        "trans": [
+            "かする②",
+            "擦过"
+        ]
+    },
+    {
+        "name": "gakkuri",
+        "notation": "がっくり",
+        "trans": [
+            "がっくり③",
+            "突然无力的弯曲貌；失望；突然下降"
+        ]
+    },
+    {
+        "name": "gasshiri",
+        "notation": "がっしり",
+        "trans": [
+            "がっしり③",
+            "结实，健壮"
+        ]
+    },
+    {
+        "name": "gacchiri",
+        "notation": "がっちり",
+        "trans": [
+            "がっちり③",
+            "坚固；（身体）健壮；用钱仔细"
+        ]
+    },
+    {
+        "name": "kanete",
+        "notation": "かねて",
+        "trans": [
+            "かねて①",
+            "老早；早先"
+        ]
+    },
+    {
+        "name": "kanningu",
+        "notation": "カンニング",
+        "trans": [
+            "カンニング⓪",
+            "(英) cunning 作弊"
+        ]
+    },
+    {
+        "name": "kanroku",
+        "notation": "貫 禄[ろく]",
+        "trans": [
+            "かんろく⓪",
+            "威严，气派"
+        ]
+    },
+    {
+        "name": "kiza",
+        "notation": "気障[きざ]",
+        "trans": [
+            "きざ①",
+            "装模作样"
+        ]
+    },
+    {
+        "name": "kishimu",
+        "notation": "きしむ",
+        "trans": [
+            "きしむ②",
+            "嘎吱嘎吱作响"
+        ]
+    },
+    {
+        "name": "kikkari",
+        "notation": "きっかり",
+        "trans": [
+            "きっかり③",
+            "整，正好"
+        ]
+    },
+    {
+        "name": "kicchiri",
+        "notation": "きっちり",
+        "trans": [
+            "きっちり③",
+            "没有空隙；正好"
+        ]
+    },
+    {
+        "name": "kirabiyaka",
+        "notation": "きらびやか",
+        "trans": [
+            "きらびやか③",
+            "华丽"
+        ]
+    },
+    {
+        "name": "kusuguttai",
+        "notation": "くすぐったい",
+        "trans": [
+            "くすぐったい⓪⑤",
+            "发痒；难为情"
+        ]
+    },
+    {
+        "name": "gessori",
+        "notation": "げっそり",
+        "trans": [
+            "げっそり③",
+            "急剧消瘦；灰心"
+        ]
+    },
+    {
+        "name": "kenasu",
+        "notation": "けなす",
+        "trans": [
+            "けなす⓪",
+            "贬低，诋毁"
+        ]
+    },
+    {
+        "name": "kojireru",
+        "notation": "こじれる",
+        "trans": [
+            "こじれる③",
+            "事态恶化；病情恶化"
+        ]
+    },
+    {
+        "name": "kotogotoku",
+        "notation": "ことごとく",
+        "trans": [
+            "ことごとく③",
+            "所有"
+        ]
+    },
+    {
+        "name": "kotoniyoruto",
+        "notation": "ことによると",
+        "trans": [
+            "ことによると⓪",
+            "或许，说不定"
+        ]
+    },
+    {
+        "name": "gomakasu",
+        "notation": "ごまかす",
+        "trans": [
+            "ごまかす③",
+            "蒙骗；敷衍"
+        ]
+    },
+    {
+        "name": "saeru",
+        "notation": "冴[さ]える",
+        "trans": [
+            "さえる②",
+            "冷峭；清澈；（头脑）清醒；精巧，灵敏"
+        ]
+    },
+    {
+        "name": "sahodo",
+        "notation": "さほど",
+        "trans": [
+            "さほど⓪",
+            "（不）那么，（不）怎么"
+        ]
+    },
+    {
+        "name": "sarau",
+        "notation": "攫[さら]う",
+        "trans": [
+            "さらう⓪",
+            "抢走，拐走；拿走，赢得"
+        ]
+    },
+    {
+        "name": "shikujiru",
+        "notation": "しくじる",
+        "trans": [
+            "しくじる③",
+            "失败"
+        ]
+    },
+    {
+        "name": "shinabiru",
+        "notation": "しなびる",
+        "trans": [
+            "しなびる⓪",
+            "枯萎，蔫"
+        ]
+    },
+    {
+        "name": "shinayaka",
+        "notation": "しなやか",
+        "trans": [
+            "しなやか②",
+            "柔软；灵活"
+        ]
+    },
+    {
+        "name": "shinogu",
+        "notation": "しのぐ",
+        "trans": [
+            "しのぐ②",
+            "闯过；超过；忍受"
+        ]
+    },
+    {
+        "name": "shibutoi",
+        "notation": "しぶとい",
+        "trans": [
+            "しぶとい③",
+            "顽固，倔强"
+        ]
+    },
+    {
+        "name": "shyocchyuu",
+        "notation": "しょっちゅう",
+        "trans": [
+            "しょっちゅう①",
+            "一直；经常"
+        ]
+    },
+    {
+        "name": "sugasugashii",
+        "notation": "すがすがしい",
+        "trans": [
+            "すがすがしい⑤",
+            "清新舒畅"
+        ]
+    },
+    {
+        "name": "subashikoi",
+        "notation": "すばしこい",
+        "trans": [
+            "すばしこい④",
+            "（动作）快速，敏捷"
+        ]
+    },
+    {
+        "name": "zubari",
+        "notation": "ずばり",
+        "trans": [
+            "ずばり②",
+            "直言不讳，一针见血"
+        ]
+    },
+    {
+        "name": "zuruzuru",
+        "notation": "ずるずる",
+        "trans": [
+            "ずるずる①⓪",
+            "拖拉；拖延"
+        ]
+    },
+    {
+        "name": "sunnari",
+        "notation": "すんなり",
+        "trans": [
+            "すんなり③",
+            "纤细柔美；容易"
+        ]
+    },
+    {
+        "name": "sensu",
+        "notation": "センス",
+        "trans": [
+            "センス①",
+            "(英) sense 感觉；品味"
+        ]
+    },
+    {
+        "name": "soppo",
+        "notation": "そっぽ",
+        "trans": [
+            "そっぽ①",
+            "旁边，别处"
+        ]
+    },
+    {
+        "name": "sobieru",
+        "notation": "そびえる",
+        "trans": [
+            "そびえる③",
+            "矗立，耸立"
+        ]
+    },
+    {
+        "name": "zonzai",
+        "notation": "ぞんざい",
+        "trans": [
+            "ぞんざい③",
+            "草率，粗鲁"
+        ]
+    },
+    {
+        "name": "taimingu",
+        "notation": "タイミング",
+        "trans": [
+            "タイミング⓪",
+            "(英) timing 时机"
+        ]
+    },
+    {
+        "name": "takumashii",
+        "notation": "たくましい",
+        "trans": [
+            "たくましい④",
+            "（身体）强壮；（意志）刚强"
+        ]
+    },
+    {
+        "name": "tadoritsuku",
+        "notation": "たどり着く",
+        "trans": [
+            "たどりつく④",
+            "好不容易走到"
+        ]
+    },
+    {
+        "name": "tadoru",
+        "notation": "たどる",
+        "trans": [
+            "たどる②⓪",
+            "沿路前进；追寻；走向"
+        ]
+    },
+    {
+        "name": "dabudabu",
+        "notation": "だぶだぶ",
+        "trans": [
+            "だぶだぶ①⓪",
+            "肥大；（液体）满"
+        ]
+    },
+    {
+        "name": "tayasui",
+        "notation": "たやすい",
+        "trans": [
+            "たやすい③⓪",
+            "容易，轻易"
+        ]
+    },
+    {
+        "name": "tarumu",
+        "notation": "たるむ",
+        "trans": [
+            "たるむ⓪",
+            "松弛；（精神、心情等）松懈"
+        ]
+    },
+    {
+        "name": "chiyahoya",
+        "notation": "ちやほや",
+        "trans": [
+            "ちやほや①",
+            "奉承；溺爱"
+        ]
+    },
+    {
+        "name": "chyokuchyoku",
+        "notation": "ちょくちょく",
+        "trans": [
+            "ちょくちょく①",
+            "经常，时常"
+        ]
+    },
+    {
+        "name": "tsukuzuku",
+        "notation": "つくづく",
+        "trans": [
+            "つくづく③②",
+            "痛切，深切"
+        ]
+    },
+    {
+        "name": "tsuneru",
+        "notation": "つねる",
+        "trans": [
+            "つねる②",
+            "掐，拧"
+        ]
+    },
+    {
+        "name": "tsubuyaku",
+        "notation": "つぶやく",
+        "trans": [
+            "つぶやく③",
+            "发牢骚，唠叨"
+        ]
+    },
+    {
+        "name": "tsubura",
+        "notation": "つぶら",
+        "trans": [
+            "つぶら⓪①",
+            "圆溜溜的"
+        ]
+    },
+    {
+        "name": "dezaato",
+        "notation": "デザート",
+        "trans": [
+            "デザート②",
+            "(英) dessert 餐后甜点"
+        ]
+    },
+    {
+        "name": "tekkiri",
+        "notation": "てっきり",
+        "trans": [
+            "てっきり③",
+            "（认为）一定（其实不然）"
+        ]
+    },
+    {
+        "name": "tehazu",
+        "notation": "手はず",
+        "trans": [
+            "てはず①",
+            "准备；步骤"
+        ]
+    },
+    {
+        "name": "tende",
+        "notation": "てんで",
+        "trans": [
+            "てんで⓪",
+            "完全（不）；非常"
+        ]
+    },
+    {
+        "name": "douyara",
+        "notation": "どうやら",
+        "trans": [
+            "どうやら①",
+            "好不容易才；仿佛"
+        ]
+    },
+    {
+        "name": "togameru",
+        "notation": "とがめる",
+        "trans": [
+            "とがめる③",
+            "红肿；责备；盘问"
+        ]
+    },
+    {
+        "name": "tossa",
+        "notation": "とっさ",
+        "trans": [
+            "とっさ⓪",
+            "瞬间"
+        ]
+    },
+    {
+        "name": "toriwake",
+        "notation": "とりわけ",
+        "trans": [
+            "とりわけ⓪",
+            "特别，格外"
+        ]
+    },
+    {
+        "name": "torokeru",
+        "notation": "とろける",
+        "trans": [
+            "とろける③⓪",
+            "溶化；陶醉"
+        ]
+    },
+    {
+        "name": "tonda",
+        "notation": "とんだ",
+        "trans": [
+            "とんだ⓪",
+            "意想不到；毫无道理"
+        ]
+    },
+    {
+        "name": "naishi",
+        "notation": "乃[ない]至",
+        "trans": [
+            "ないし①",
+            "至；或者"
+        ]
+    },
+    {
+        "name": "naosara",
+        "notation": "なおさら",
+        "trans": [
+            "なおさら⓪",
+            "更加，越发"
+        ]
+    },
+    {
+        "name": "najiru",
+        "notation": "なじる",
+        "trans": [
+            "なじる②",
+            "指责"
+        ]
+    },
+    {
+        "name": "namanurui",
+        "notation": "生 温[ぬる]い",
+        "trans": [
+            "なまぬるい④⓪",
+            "微温；不严格"
+        ]
+    },
+    {
+        "name": "narabini",
+        "notation": "ならびに",
+        "trans": [
+            "ならびに⓪",
+            "及，和"
+        ]
+    },
+    {
+        "name": "narenareshii",
+        "notation": "なれなれしい",
+        "trans": [
+            "なれなれしい⑤",
+            "过分亲昵"
+        ]
+    },
+    {
+        "name": "nandakanda",
+        "notation": "なんだかんだ",
+        "trans": [
+            "なんだかんだ④",
+            "这个那个，这样那样"
+        ]
+    },
+    {
+        "name": "nigiwau",
+        "notation": "にぎわう",
+        "trans": [
+            "にぎわう③",
+            "热闹；兴盛"
+        ]
+    },
+    {
+        "name": "nijimu",
+        "notation": "にじむ",
+        "trans": [
+            "にじむ②",
+            "渗，渗出"
+        ]
+    },
+    {
+        "name": "nejireru",
+        "notation": "ねじれる",
+        "trans": [
+            "ねじれる③",
+            "扭曲；乖僻"
+        ]
+    },
+    {
+        "name": "nedaru",
+        "notation": "ねだる",
+        "trans": [
+            "ねだる②⓪",
+            "缠着要，赖着请求"
+        ]
+    },
+    {
+        "name": "nodoka",
+        "notation": "のどか",
+        "trans": [
+            "のどか①",
+            "恬静，和煦"
+        ]
+    },
+    {
+        "name": "hakanai",
+        "notation": "はかない",
+        "trans": [
+            "はかない③",
+            "短暂的，无常的；虚幻"
+        ]
+    },
+    {
+        "name": "bateru",
+        "notation": "ばてる",
+        "trans": [
+            "ばてる②",
+            "筋疲力尽"
+        ]
+    },
+    {
+        "name": "hamaru",
+        "notation": "はまる",
+        "trans": [
+            "はまる⓪",
+            "套上，嵌入；吻合；陷入，中圈套；热衷"
+        ]
+    },
+    {
+        "name": "harahara",
+        "notation": "はらはら",
+        "trans": [
+            "はらはら①⓪",
+            "捏一把汗；轻轻飘落的样子"
+        ]
+    },
+    {
+        "name": "haruka",
+        "notation": "はるか",
+        "trans": [
+            "はるか①",
+            "（时间或距离）相隔很远；（程度）相差很大"
+        ]
+    },
+    {
+        "name": "panku",
+        "notation": "パンク",
+        "trans": [
+            "パンク⓪",
+            "(英) puncture 爆胎；性能失灵；破产"
+        ]
+    },
+    {
+        "name": "hiiteha",
+        "notation": "ひいては",
+        "trans": [
+            "ひいては①③",
+            "进而，不但…甚至"
+        ]
+    },
+    {
+        "name": "hisoka",
+        "notation": "ひそか",
+        "trans": [
+            "ひそか②①",
+            "暗中，偷偷"
+        ]
+    },
+    {
+        "name": "hitasura",
+        "notation": "ひたすら",
+        "trans": [
+            "ひたすら⓪②",
+            "一个劲儿"
+        ]
+    },
+    {
+        "name": "hinata",
+        "notation": "ひなた",
+        "trans": [
+            "ひなた⓪",
+            "向阳处"
+        ]
+    },
+    {
+        "name": "hibi",
+        "notation": "皹[ひび]",
+        "trans": [
+            "ひび②",
+            "皲裂"
+        ]
+    },
+    {
+        "name": "bukabuka",
+        "notation": "ぶかぶか",
+        "trans": [
+            "ぶかぶか⓪",
+            "肥大不合体"
+        ]
+    },
+    {
+        "name": "burabura",
+        "notation": "ぶらぶら",
+        "trans": [
+            "ぶらぶら①⓪",
+            "摇晃；闲逛；无所事事"
+        ]
+    },
+    {
+        "name": "hekieki",
+        "notation": "辟[へき]易",
+        "trans": [
+            "へきえき⓪",
+            "退缩；束手无策"
+        ]
+    },
+    {
+        "name": "pekopeko",
+        "notation": "ぺこぺこ",
+        "trans": [
+            "ぺこぺこ①⓪",
+            "凹陷；肚子饿；点头哈腰"
+        ]
+    },
+    {
+        "name": "bouzen",
+        "notation": "茫[ぼう]然",
+        "trans": [
+            "ぼうぜん⓪",
+            "茫然"
+        ]
+    },
+    {
+        "name": "bouzen",
+        "notation": "呆[ぼう]然",
+        "trans": [
+            "ぼうぜん⓪",
+            "愕然，吃惊"
+        ]
+    },
+    {
+        "name": "bokeru",
+        "notation": "ぼける",
+        "trans": [
+            "ぼける②",
+            "（头脑）迟钝"
+        ]
+    },
+    {
+        "name": "boyaku",
+        "notation": "ぼやく",
+        "trans": [
+            "ぼやく②",
+            "发牢骚"
+        ]
+    },
+    {
+        "name": "boyakeru",
+        "notation": "ぼやける",
+        "trans": [
+            "ぼやける③",
+            "模糊"
+        ]
+    },
+    {
+        "name": "magotsuku",
+        "notation": "まごつく",
+        "trans": [
+            "まごつく⓪",
+            "不知所措；彷徨"
+        ]
+    },
+    {
+        "name": "matagaru",
+        "notation": "またがる",
+        "trans": [
+            "またがる③",
+            "骑；跨越"
+        ]
+    },
+    {
+        "name": "machimachi",
+        "notation": "まちまち",
+        "trans": [
+            "まちまち②⓪",
+            "各不相同"
+        ]
+    },
+    {
+        "name": "mabataki",
+        "notation": "まばたき",
+        "trans": [
+            "まばたき②",
+            "眨眼，闪烁"
+        ]
+    },
+    {
+        "name": "mahi",
+        "notation": "麻痺[まひ]",
+        "trans": [
+            "まひ①",
+            "麻痹，瘫痪"
+        ]
+    },
+    {
+        "name": "marukkiri",
+        "notation": "まるっきり",
+        "trans": [
+            "まるっきり⓪",
+            "完全（不），全然（不）"
+        ]
+    },
+    {
+        "name": "mijin",
+        "notation": "みじん",
+        "trans": [
+            "みじん⓪",
+            "微尘；微小物；极少量"
+        ]
+    },
+    {
+        "name": "misuborashii",
+        "notation": "みすぼらしい",
+        "trans": [
+            "みすぼらしい⑤⓪",
+            "寒碜的，衣衫褴褛的"
+        ]
+    },
+    {
+        "name": "mushiru",
+        "notation": "むしる",
+        "trans": [
+            "むしる⓪",
+            "拔；撕成碎块"
+        ]
+    },
+    {
+        "name": "munashii",
+        "notation": "むなしい",
+        "trans": [
+            "むなしい③⓪",
+            "空洞的；变幻无常的"
+        ]
+    },
+    {
+        "name": "medo",
+        "notation": "目処[めど]",
+        "trans": [
+            "めど①",
+            "目标，头绪"
+        ]
+    },
+    {
+        "name": "mogaku",
+        "notation": "もがく",
+        "trans": [
+            "もがく②",
+            "挣扎；焦急"
+        ]
+    },
+    {
+        "name": "mokuromi",
+        "notation": "目 論[ろ]見",
+        "trans": [
+            "もくろみ⓪④",
+            "计划，企图"
+        ]
+    },
+    {
+        "name": "moshikuha",
+        "notation": "もしくは",
+        "trans": [
+            "もしくは①",
+            "或者"
+        ]
+    },
+    {
+        "name": "mohaya",
+        "notation": "もはや",
+        "trans": [
+            "もはや①",
+            "（事到如今）已经"
+        ]
+    },
+    {
+        "name": "momeru",
+        "notation": "もめる",
+        "trans": [
+            "もめる⓪",
+            "发生争执；心神不定"
+        ]
+    },
+    {
+        "name": "moroi",
+        "notation": "もろい",
+        "trans": [
+            "もろい②",
+            "脆的；脆弱的"
+        ]
+    },
+    {
+        "name": "moroni",
+        "notation": "もろに",
+        "trans": [
+            "もろに①",
+            "直接，正面"
+        ]
+    },
+    {
+        "name": "yakeni",
+        "notation": "やけに",
+        "trans": [
+            "やけに",
+            "非常，特别"
+        ]
+    },
+    {
+        "name": "yayakoshii",
+        "notation": "ややこしい",
+        "trans": [
+            "ややこしい④",
+            "麻烦的，复杂的"
+        ]
+    },
+    {
+        "name": "yutori",
+        "notation": "ゆとり",
+        "trans": [
+            "ゆとり⓪",
+            "宽裕，余裕"
+        ]
+    },
+    {
+        "name": "yosomi",
+        "notation": "余所[よそ]見",
+        "trans": [
+            "よそみ②③",
+            "斜视，往旁处看"
+        ]
+    },
+    {
+        "name": "rentakaa",
+        "notation": "レンタカー",
+        "trans": [
+            "レンタカー③④",
+            "(英) rent-a-car 租车"
+        ]
+    },
+    {
+        "name": "aisou",
+        "notation": "愛想",
+        "trans": [
+            "あいそう③",
+            "亲切，和蔼"
+        ]
+    },
+    {
+        "name": "yasuppoi",
+        "notation": "安っぽい",
+        "trans": [
+            "やすっぽい④",
+            "廉价的"
+        ]
+    },
+    {
+        "name": "anji",
+        "notation": "暗示",
+        "trans": [
+            "あんじ⓪",
+            "提示，暗示"
+        ]
+    },
+    {
+        "name": "anjiru",
+        "notation": "案じる",
+        "trans": [
+            "あんじる③⓪",
+            "担心，挂念"
+        ]
+    },
+    {
+        "name": "annojyou",
+        "notation": "案の定",
+        "trans": [
+            "あんのじょう③",
+            "果然"
+        ]
+    },
+    {
+        "name": "izen",
+        "notation": "依然",
+        "trans": [
+            "いぜん⓪",
+            "依然"
+        ]
+    },
+    {
+        "name": "ikigomu",
+        "notation": "意気込む",
+        "trans": [
+            "いきごむ③",
+            "振奋，鼓起干劲"
+        ]
+    },
+    {
+        "name": "ichigaini",
+        "notation": "一概に",
+        "trans": [
+            "いちがいに⓪②",
+            "（不能）一概"
+        ]
+    },
+    {
+        "name": "ikkatsu",
+        "notation": "一括",
+        "trans": [
+            "いっかつ⓪",
+            "统一，总括起来"
+        ]
+    },
+    {
+        "name": "hitosuji",
+        "notation": "一筋",
+        "trans": [
+            "ひとすじ②",
+            "一条；一个血脉；一心一意；一根筋"
+        ]
+    },
+    {
+        "name": "isshin",
+        "notation": "一心",
+        "trans": [
+            "いっしん③",
+            "齐心；专心致志"
+        ]
+    },
+    {
+        "name": "hitoiki",
+        "notation": "一息",
+        "trans": [
+            "ひといき②",
+            "歇口气；（稍加）一把劲儿"
+        ]
+    },
+    {
+        "name": "ichidou",
+        "notation": "一同",
+        "trans": [
+            "いちどう③",
+            "全体人员"
+        ]
+    },
+    {
+        "name": "ippen",
+        "notation": "一変",
+        "trans": [
+            "いっぺん⓪",
+            "突然改变，完全改变"
+        ]
+    },
+    {
+        "name": "ichimoku",
+        "notation": "一目",
+        "trans": [
+            "いちもく⓪②",
+            "一看，一眼"
+        ]
+    },
+    {
+        "name": "ichiyou",
+        "notation": "一様",
+        "trans": [
+            "いちよう⓪",
+            "一样，同样；平常，普通"
+        ]
+    },
+    {
+        "name": "ichiritsu",
+        "notation": "一律",
+        "trans": [
+            "いちりつ⓪",
+            "一律"
+        ]
+    },
+    {
+        "name": "ichiren",
+        "notation": "一連",
+        "trans": [
+            "いちれん⓪",
+            "一系列，一连串"
+        ]
+    },
+    {
+        "name": "sorasu",
+        "notation": "逸らす",
+        "trans": [
+            "そらす②",
+            "转移"
+        ]
+    },
+    {
+        "name": "hikkaku",
+        "notation": "引っかく",
+        "trans": [
+            "ひっかく③",
+            "（用力）挠，搔"
+        ]
+    },
+    {
+        "name": "inki",
+        "notation": "陰気",
+        "trans": [
+            "いんき⓪",
+            "阴暗；阴郁"
+        ]
+    },
+    {
+        "name": "unyou",
+        "notation": "運用",
+        "trans": [
+            "うんよう⓪",
+            "运用"
+        ]
+    },
+    {
+        "name": "enman",
+        "notation": "円満",
+        "trans": [
+            "えんまん⓪",
+            "美满；圆满"
+        ]
+    },
+    {
+        "name": "kemutai",
+        "notation": "煙たい",
+        "trans": [
+            "けむたい⓪③",
+            "烟味呛人；难以融洽"
+        ]
+    },
+    {
+        "name": "toozakaru",
+        "notation": "遠ざかる",
+        "trans": [
+            "とおざかる④",
+            "远离；疏远"
+        ]
+    },
+    {
+        "name": "toomawari",
+        "notation": "遠回り",
+        "trans": [
+            "とおまわり③",
+            "绕远；绕圈子"
+        ]
+    },
+    {
+        "name": "kegarawashii",
+        "notation": "汚らわしい",
+        "trans": [
+            "けがらわしい⑤",
+            "污秽，肮脏"
+        ]
+    },
+    {
+        "name": "oshiyoseru",
+        "notation": "押し寄せる",
+        "trans": [
+            "おしよせる④",
+            "涌上来；蜂拥而至"
+        ]
+    },
+    {
+        "name": "oshikiru",
+        "notation": "押し切る",
+        "trans": [
+            "おしきる③",
+            "切断；不顾"
+        ]
+    },
+    {
+        "name": "okubyou",
+        "notation": "臆病",
+        "trans": [
+            "おくびょう③",
+            "胆小，胆怯"
+        ]
+    },
+    {
+        "name": "onwa",
+        "notation": "温和",
+        "trans": [
+            "おんわ⓪",
+            "气候温暖；稳重"
+        ]
+    },
+    {
+        "name": "shitabi",
+        "notation": "下火",
+        "trans": [
+            "したび⓪",
+            "火势渐微；势头衰弱"
+        ]
+    },
+    {
+        "name": "shitagokoro",
+        "notation": "下心",
+        "trans": [
+            "したごころ③",
+            "用心，企图"
+        ]
+    },
+    {
+        "name": "shitaji",
+        "notation": "下地",
+        "trans": [
+            "したじ⓪",
+            "准备，基础；资质，素质"
+        ]
+    },
+    {
+        "name": "shitashirabe",
+        "notation": "下調べ",
+        "trans": [
+            "したしらべ③⓪",
+            "预先调查"
+        ]
+    },
+    {
+        "name": "nannarito",
+        "notation": "何なりと",
+        "trans": [
+            "なんなりと①③",
+            "无论什么"
+        ]
+    },
+    {
+        "name": "naniyori",
+        "notation": "何より",
+        "trans": [
+            "なにより①⓪",
+            "比什么（都好），最"
+        ]
+    },
+    {
+        "name": "nanigenai",
+        "notation": "何気ない",
+        "trans": [
+            "なにげない④",
+            "无意；若无其事"
+        ]
+    },
+    {
+        "name": "nanitozo",
+        "notation": "何卒",
+        "trans": [
+            "なにとぞ⓪",
+            "请，务必"
+        ]
+    },
+    {
+        "name": "kami",
+        "notation": "加味",
+        "trans": [
+            "かみ①",
+            "加佐料；采纳"
+        ]
+    },
+    {
+        "name": "hate",
+        "notation": "果て",
+        "trans": [
+            "はて②",
+            "尽头；结局"
+        ]
+    },
+    {
+        "name": "kajyougaki",
+        "notation": "箇条書き",
+        "trans": [
+            "かじょうがき⓪",
+            "分条写"
+        ]
+    },
+    {
+        "name": "hanabanashii",
+        "notation": "華々しい",
+        "trans": [
+            "はなばなしい⑤",
+            "华丽的，华美的"
+        ]
+    },
+    {
+        "name": "kyashya",
+        "notation": "華奢",
+        "trans": [
+            "きゃしゃ⓪",
+            "纤弱；苗条，窈窕"
+        ]
+    },
+    {
+        "name": "ayamachi",
+        "notation": "過ち",
+        "trans": [
+            "あやまち③⓪",
+            "错误，过失"
+        ]
+    },
+    {
+        "name": "kakkiteki",
+        "notation": "画期的",
+        "trans": [
+            "かっきてき⓪",
+            "划时代的"
+        ]
+    },
+    {
+        "name": "kainyuu",
+        "notation": "介入",
+        "trans": [
+            "かいにゅう⓪",
+            "介入，干涉"
+        ]
+    },
+    {
+        "name": "kaihou",
+        "notation": "介抱",
+        "trans": [
+            "かいほう①",
+            "看护，照顾"
+        ]
+    },
+    {
+        "name": "natsuku",
+        "notation": "懐く",
+        "trans": [
+            "なつく②",
+            "亲近"
+        ]
+    },
+    {
+        "name": "gaitou",
+        "notation": "街頭",
+        "trans": [
+            "がいとう⓪",
+            "街头"
+        ]
+    },
+    {
+        "name": "gaitou",
+        "notation": "該当",
+        "trans": [
+            "がいとう⓪",
+            "符合"
+        ]
+    },
+    {
+        "name": "kokkei",
+        "notation": "滑稽",
+        "trans": [
+            "こっけい⓪",
+            "诙谐，滑稽"
+        ]
+    },
+    {
+        "name": "kanpeki",
+        "notation": "完璧",
+        "trans": [
+            "かんぺき⓪",
+            "完整；完美"
+        ]
+    },
+    {
+        "name": "kanyou",
+        "notation": "寛容",
+        "trans": [
+            "かんよう⓪",
+            "宽容"
+        ]
+    },
+    {
+        "name": "kansan",
+        "notation": "換算",
+        "trans": [
+            "かんさん⓪",
+            "换算，折合"
+        ]
+    },
+    {
+        "name": "amaeru",
+        "notation": "甘える",
+        "trans": [
+            "あまえる⓪",
+            "撒娇；承蒙"
+        ]
+    },
+    {
+        "name": "yurumu",
+        "notation": "緩む",
+        "trans": [
+            "ゆるむ②",
+            "宽松；疏忽；缓和"
+        ]
+    },
+    {
+        "name": "kanjin",
+        "notation": "肝心",
+        "trans": [
+            "かんじん⓪",
+            "重要"
+        ]
+    },
+    {
+        "name": "tsuranuku",
+        "notation": "貫く",
+        "trans": [
+            "つらぬく③",
+            "贯通；贯彻"
+        ]
+    },
+    {
+        "name": "kangen",
+        "notation": "還元",
+        "trans": [
+            "かんげん⓪",
+            "还原，复原"
+        ]
+    },
+    {
+        "name": "aidagara",
+        "notation": "間柄",
+        "trans": [
+            "あいだがら⓪",
+            "关系"
+        ]
+    },
+    {
+        "name": "marumaru",
+        "notation": "丸々",
+        "trans": [
+            "まるまる⓪",
+            "胖墩墩；整个；某某"
+        ]
+    },
+    {
+        "name": "marumeru",
+        "notation": "丸める",
+        "trans": [
+            "まるめる⓪",
+            "卷起来；笼络；剃光头"
+        ]
+    },
+    {
+        "name": "ganjyou",
+        "notation": "頑丈",
+        "trans": [
+            "がんじょう⓪",
+            "坚固，结实"
+        ]
+    },
+    {
+        "name": "ayabumu",
+        "notation": "危ぶむ",
+        "trans": [
+            "あやぶむ③",
+            "认为危险，担忧"
+        ]
+    },
+    {
+        "name": "kigai",
+        "notation": "危害",
+        "trans": [
+            "きがい①",
+            "危害"
+        ]
+    },
+    {
+        "name": "utsuwa",
+        "notation": "器",
+        "trans": [
+            "うつわ⓪",
+            "容器；才能，材料"
+        ]
+    },
+    {
+        "name": "yorikakaru",
+        "notation": "寄り掛かる",
+        "trans": [
+            "よりかかる④",
+            "靠，依靠"
+        ]
+    },
+    {
+        "name": "ikuta",
+        "notation": "幾多",
+        "trans": [
+            "いくた①",
+            "多少，许多"
+        ]
+    },
+    {
+        "name": "kimagure",
+        "notation": "気まぐれ",
+        "trans": [
+            "きまぐれ⓪",
+            "反复无常；没准脾气"
+        ]
+    },
+    {
+        "name": "kigane",
+        "notation": "気兼ね",
+        "trans": [
+            "きがね⓪",
+            "顾虑，客气"
+        ]
+    },
+    {
+        "name": "kishitsu",
+        "notation": "気質",
+        "trans": [
+            "きしつ⓪",
+            "气质，性情"
+        ]
+    },
+    {
+        "name": "kabureru",
+        "notation": "かぶれる",
+        "trans": [
+            "かぶれる⓪",
+            "（因外界刺激）起斑疹；着迷"
+        ]
+    },
+    {
+        "name": "kihin",
+        "notation": "気品",
+        "trans": [
+            "きひん⓪",
+            "优雅，风度"
+        ]
+    },
+    {
+        "name": "kidate",
+        "notation": "気立て",
+        "trans": [
+            "きだて⓪",
+            "性情，脾气"
+        ]
+    },
+    {
+        "name": "kifuku",
+        "notation": "起伏",
+        "trans": [
+            "きふく⓪①",
+            "起伏，跌宕"
+        ]
+    },
+    {
+        "name": "kidou",
+        "notation": "軌道",
+        "trans": [
+            "きどう⓪",
+            "轨道"
+        ]
+    },
+    {
+        "name": "azamuku",
+        "notation": "欺く",
+        "trans": [
+            "あざむく③",
+            "欺骗；胜过"
+        ]
+    },
+    {
+        "name": "sekasu",
+        "notation": "急かす",
+        "trans": [
+            "せかす②",
+            "催促"
+        ]
+    },
+    {
+        "name": "kuchiru",
+        "notation": "朽ちる",
+        "trans": [
+            "くちる②",
+            "腐烂；腐朽"
+        ]
+    },
+    {
+        "name": "kyuukyoku",
+        "notation": "究極",
+        "trans": [
+            "きゅうきょく⓪",
+            "究竟，最终"
+        ]
+    },
+    {
+        "name": "kyuukutsu",
+        "notation": "窮屈",
+        "trans": [
+            "きゅうくつ①",
+            "狭小；受拘束；死板"
+        ]
+    },
+    {
+        "name": "kyuuchi",
+        "notation": "旧知",
+        "trans": [
+            "きゅうち①",
+            "旧友，故交"
+        ]
+    },
+    {
+        "name": "kyoukan",
+        "notation": "共感",
+        "trans": [
+            "きょうかん⓪",
+            "同感"
+        ]
+    },
+    {
+        "name": "kyoumei",
+        "notation": "共鳴",
+        "trans": [
+            "きょうめい⓪",
+            "共鸣"
+        ]
+    },
+    {
+        "name": "kyouguu",
+        "notation": "境遇",
+        "trans": [
+            "きょうぐう⓪",
+            "境遇，处境"
+        ]
+    },
+    {
+        "name": "shiite",
+        "notation": "強いて",
+        "trans": [
+            "しいて①",
+            "强迫；硬要"
+        ]
+    },
+    {
+        "name": "shiiru",
+        "notation": "強いる",
+        "trans": [
+            "しいる②",
+            "强迫"
+        ]
+    },
+    {
+        "name": "kyouretsu",
+        "notation": "強烈",
+        "trans": [
+            "きょうれつ⓪",
+            "强烈"
+        ]
+    },
+    {
+        "name": "hashiwatashi",
+        "notation": "橋渡し",
+        "trans": [
+            "はしわたし③",
+            "架桥；牵线搭桥"
+        ]
+    },
+    {
+        "name": "odosu",
+        "notation": "脅す",
+        "trans": [
+            "おどす⓪",
+            "威胁，恐吓"
+        ]
+    },
+    {
+        "name": "kyoujiru",
+        "notation": "興じる",
+        "trans": [
+            "きょうじる⓪③",
+            "玩在兴头上，热衷于"
+        ]
+    },
+    {
+        "name": "kyoui",
+        "notation": "驚異",
+        "trans": [
+            "きょうい①",
+            "惊异"
+        ]
+    },
+    {
+        "name": "aogu",
+        "notation": "仰ぐ",
+        "trans": [
+            "あおぐ②",
+            "仰，瞻；尊为；仰赖；请示；饮，服"
+        ]
+    },
+    {
+        "name": "korasu",
+        "notation": "凝らす",
+        "trans": [
+            "こらす②",
+            "集中，一心钻研"
+        ]
+    },
+    {
+        "name": "koru",
+        "notation": "凝る",
+        "trans": [
+            "こる①",
+            "（肌肉）酸痛；热衷；讲究"
+        ]
+    },
+    {
+        "name": "kiwamete",
+        "notation": "極めて",
+        "trans": [
+            "きわめて②",
+            "极其，非常"
+        ]
+    },
+    {
+        "name": "kyokutan",
+        "notation": "極端",
+        "trans": [
+            "きょくたん③",
+            "极端"
+        ]
+    },
+    {
+        "name": "kinmotsu",
+        "notation": "禁物",
+        "trans": [
+            "きんもつ⓪",
+            "切忌"
+        ]
+    },
+    {
+        "name": "ginmi",
+        "notation": "吟味",
+        "trans": [
+            "ぎんみ①③",
+            "斟酌，仔细挑选"
+        ]
+    },
+    {
+        "name": "utsuro",
+        "notation": "うつろ",
+        "trans": [
+            "うつろ⓪",
+            "空洞；空虚"
+        ]
+    },
+    {
+        "name": "kussetsu",
+        "notation": "屈折",
+        "trans": [
+            "くっせつ⓪",
+            "弯曲；扭曲"
+        ]
+    },
+    {
+        "name": "tsugu",
+        "notation": "継ぐ",
+        "trans": [
+            "つぐ⓪",
+            "接上；继承"
+        ]
+    },
+    {
+        "name": "keisotsu",
+        "notation": "軽率",
+        "trans": [
+            "けいそつ⓪",
+            "轻率，草率"
+        ]
+    },
+    {
+        "name": "ketsubou",
+        "notation": "欠乏",
+        "trans": [
+            "けつぼう⓪",
+            "缺乏，不足"
+        ]
+    },
+    {
+        "name": "kimariwarui",
+        "notation": "決まり悪い",
+        "trans": [
+            "きまりわるい⑤",
+            "难为情，不好意思"
+        ]
+    },
+    {
+        "name": "geppu",
+        "notation": "月賦",
+        "trans": [
+            "げっぷ⓪",
+            "按月分期付款"
+        ]
+    },
+    {
+        "name": "tsukinami",
+        "notation": "月並み",
+        "trans": [
+            "つきなみ⓪",
+            "每月例行；司空见惯"
+        ]
+    },
+    {
+        "name": "kenzai",
+        "notation": "健在",
+        "trans": [
+            "けんざい⓪",
+            "健在"
+        ]
+    },
+    {
+        "name": "kenzen",
+        "notation": "健全",
+        "trans": [
+            "けんぜん⓪",
+            "健全"
+        ]
+    },
+    {
+        "name": "kengyou",
+        "notation": "兼業",
+        "trans": [
+            "けんぎょう⓪",
+            "兼营"
+        ]
+    },
+    {
+        "name": "kenyou",
+        "notation": "兼用",
+        "trans": [
+            "けんよう⓪",
+            "兼用，两用"
+        ]
+    },
+    {
+        "name": "kengen",
+        "notation": "権限",
+        "trans": [
+            "けんげん③",
+            "权限"
+        ]
+    },
+    {
+        "name": "misebirakasu",
+        "notation": "見せびらかす",
+        "trans": [
+            "みせびらかす⑤",
+            "卖弄，炫耀"
+        ]
+    },
+    {
+        "name": "minasu",
+        "notation": "見なす",
+        "trans": [
+            "みなす⓪②",
+            "看作"
+        ]
+    },
+    {
+        "name": "migurushii",
+        "notation": "見苦しい",
+        "trans": [
+            "みぐるしい④",
+            "难看的，寒碜的"
+        ]
+    },
+    {
+        "name": "mihakarau",
+        "notation": "見計らう",
+        "trans": [
+            "みはからう⓪④",
+            "斟酌；适当估计"
+        ]
+    },
+    {
+        "name": "miawaseru",
+        "notation": "見合わせる",
+        "trans": [
+            "みあわせる④⓪",
+            "互相看；暂缓"
+        ]
+    },
+    {
+        "name": "miharashi",
+        "notation": "見晴らし",
+        "trans": [
+            "みはらし⓪",
+            "眺望"
+        ]
+    },
+    {
+        "name": "kenchi",
+        "notation": "見地",
+        "trans": [
+            "けんち①",
+            "见地，角度"
+        ]
+    },
+    {
+        "name": "mitooshi",
+        "notation": "見通し",
+        "trans": [
+            "みとおし⓪",
+            "前景"
+        ]
+    },
+    {
+        "name": "minogasu",
+        "notation": "見逃す",
+        "trans": [
+            "みのがす⓪③",
+            "错过；宽恕"
+        ]
+    },
+    {
+        "name": "miotosu",
+        "notation": "見落とす",
+        "trans": [
+            "みおとす⓪③",
+            "看漏，忽略"
+        ]
+    },
+    {
+        "name": "kenmei",
+        "notation": "賢明",
+        "trans": [
+            "けんめい⓪",
+            "贤明，明智"
+        ]
+    },
+    {
+        "name": "nokinami",
+        "notation": "軒並み",
+        "trans": [
+            "のきなみ⓪",
+            "屋檐栉比；每家每户；一律"
+        ]
+    },
+    {
+        "name": "ganrai",
+        "notation": "元来",
+        "trans": [
+            "がんらい①",
+            "原来，原本"
+        ]
+    },
+    {
+        "name": "genmitsu",
+        "notation": "厳密",
+        "trans": [
+            "げんみつ⓪",
+            "严格，严密"
+        ]
+    },
+    {
+        "name": "koyuu",
+        "notation": "固有",
+        "trans": [
+            "こゆう⓪",
+            "固有；特有"
+        ]
+    },
+    {
+        "name": "kochyou",
+        "notation": "誇張",
+        "trans": [
+            "こちょう⓪",
+            "夸张，夸大"
+        ]
+    },
+    {
+        "name": "atomawashi",
+        "notation": "後回し",
+        "trans": [
+            "あとまわし③",
+            "推迟"
+        ]
+    },
+    {
+        "name": "gosa",
+        "notation": "誤差",
+        "trans": [
+            "ごさ①",
+            "误差"
+        ]
+    },
+    {
+        "name": "majieru",
+        "notation": "交える",
+        "trans": [
+            "まじえる③",
+            "掺杂；交叉；交换"
+        ]
+    },
+    {
+        "name": "kawasu",
+        "notation": "交わす",
+        "trans": [
+            "かわす⓪",
+            "交；交换；交叉；交织"
+        ]
+    },
+    {
+        "name": "koutaku",
+        "notation": "光沢",
+        "trans": [
+            "こうたく⓪",
+            "光泽"
+        ]
+    },
+    {
+        "name": "kuchizusamu",
+        "notation": "口ずさむ",
+        "trans": [
+            "くちずさむ④",
+            "吟，诵，哼"
+        ]
+    },
+    {
+        "name": "takumi",
+        "notation": "巧み",
+        "trans": [
+            "たくみ⓪①",
+            "巧妙"
+        ]
+    },
+    {
+        "name": "koumyou",
+        "notation": "巧妙",
+        "trans": [
+            "こうみょう⓪",
+            "巧妙"
+        ]
+    },
+    {
+        "name": "hikaeru",
+        "notation": "控える",
+        "trans": [
+            "ひかえる③②",
+            "等候；节制；记下；临近"
+        ]
+    },
+    {
+        "name": "koujyo",
+        "notation": "控除",
+        "trans": [
+            "こうじょ①",
+            "扣除"
+        ]
+    },
+    {
+        "name": "arappoi",
+        "notation": "荒っぽい",
+        "trans": [
+            "あらっぽい⓪④",
+            "粗暴的，粗鲁的"
+        ]
+    },
+    {
+        "name": "koushyou",
+        "notation": "高尚",
+        "trans": [
+            "こうしょう⓪",
+            "高尚，高雅"
+        ]
+    },
+    {
+        "name": "gacchi",
+        "notation": "合致",
+        "trans": [
+            "がっち⓪",
+            "一致，合乎，符合"
+        ]
+    },
+    {
+        "name": "tsugeru",
+        "notation": "告げる",
+        "trans": [
+            "つげる⓪",
+            "（口头）告知；宣告"
+        ]
+    },
+    {
+        "name": "imasara",
+        "notation": "今更",
+        "trans": [
+            "いまさら⓪①",
+            "事到如今"
+        ]
+    },
+    {
+        "name": "nemawashi",
+        "notation": "根回し",
+        "trans": [
+            "ねまわし②",
+            "事前疏通"
+        ]
+    },
+    {
+        "name": "sashikakaru",
+        "notation": "差し掛かる",
+        "trans": [
+            "さしかかる④⓪",
+            "靠近；临近"
+        ]
+    },
+    {
+        "name": "komayaka",
+        "notation": "細やか",
+        "trans": [
+            "こまやか②",
+            "周到；细致"
+        ]
+    },
+    {
+        "name": "sassuru",
+        "notation": "察する",
+        "trans": [
+            "さっする⓪③",
+            "察觉；体谅"
+        ]
+    },
+    {
+        "name": "zatsu",
+        "notation": "雑",
+        "trans": [
+            "ざつ⓪",
+            "糙；不拘小节；杂乱无章"
+        ]
+    },
+    {
+        "name": "sanbi",
+        "notation": "賛美",
+        "trans": [
+            "さんび①",
+            "赞美"
+        ]
+    },
+    {
+        "name": "shikakeru",
+        "notation": "仕掛ける",
+        "trans": [
+            "しかける③",
+            "开始做；挑衅；安装"
+        ]
+    },
+    {
+        "name": "shiagari",
+        "notation": "仕上がり",
+        "trans": [
+            "しあがり⓪",
+            "完成，完成的结果"
+        ]
+    },
+    {
+        "name": "shiageru",
+        "notation": "仕上げる",
+        "trans": [
+            "しあげる③",
+            "完成，做完"
+        ]
+    },
+    {
+        "name": "shikiru",
+        "notation": "仕切る",
+        "trans": [
+            "しきる②",
+            "隔开；掌管"
+        ]
+    },
+    {
+        "name": "kokorozasu",
+        "notation": "志す",
+        "trans": [
+            "こころざす④",
+            "立志，以……为目标"
+        ]
+    },
+    {
+        "name": "omoitsuki",
+        "notation": "思い付き",
+        "trans": [
+            "おもいつき⓪",
+            "灵机一动；好想法"
+        ]
+    },
+    {
+        "name": "sashizu",
+        "notation": "指図",
+        "trans": [
+            "さしず①",
+            "指示，吩咐"
+        ]
+    },
+    {
+        "name": "shiji",
+        "notation": "支持",
+        "trans": [
+            "しじ①",
+            "支持"
+        ]
+    },
+    {
+        "name": "hodokosu",
+        "notation": "施す",
+        "trans": [
+            "ほどこす③⓪",
+            "施与；施行"
+        ]
+    },
+    {
+        "name": "itatte",
+        "notation": "至って",
+        "trans": [
+            "いたって⓪②",
+            "极其"
+        ]
+    },
+    {
+        "name": "kokoromiru",
+        "notation": "試みる",
+        "trans": [
+            "こころみる④",
+            "试着"
+        ]
+    },
+    {
+        "name": "nikayou",
+        "notation": "似通う",
+        "trans": [
+            "にかよう③",
+            "相仿，相似"
+        ]
+    },
+    {
+        "name": "mochikiri",
+        "notation": "持ち切り",
+        "trans": [
+            "もちきり⓪",
+            "一直在议论某件事"
+        ]
+    },
+    {
+        "name": "motenasu",
+        "notation": "持て成す",
+        "trans": [
+            "もてなす③",
+            "招待，接待"
+        ]
+    },
+    {
+        "name": "tokiori",
+        "notation": "時折",
+        "trans": [
+            "ときおり⓪",
+            "有时，偶尔"
+        ]
+    },
+    {
+        "name": "jizai",
+        "notation": "自在",
+        "trans": [
+            "じざい⓪",
+            "自如，自在"
+        ]
+    },
+    {
+        "name": "shyuuchyaku",
+        "notation": "執着",
+        "trans": [
+            "しゅうちゃく⓪",
+            "执著，贪恋"
+        ]
+    },
+    {
+        "name": "saegiru",
+        "notation": "遮る",
+        "trans": [
+            "さえぎる③",
+            "遮挡；打断"
+        ]
+    },
+    {
+        "name": "temawashi",
+        "notation": "手回し",
+        "trans": [
+            "てまわし②",
+            "手摇；安排"
+        ]
+    },
+    {
+        "name": "tegakari",
+        "notation": "手掛り",
+        "trans": [
+            "てがかり②",
+            "线索，头绪"
+        ]
+    },
+    {
+        "name": "tejika",
+        "notation": "手近",
+        "trans": [
+            "てぢか⓪",
+            "身边；常见"
+        ]
+    },
+    {
+        "name": "tegiwa",
+        "notation": "手際",
+        "trans": [
+            "てぎわ⓪③",
+            "（处理事物的）方法，技巧"
+        ]
+    },
+    {
+        "name": "tejyun",
+        "notation": "手順",
+        "trans": [
+            "てじゅん⓪①",
+            "顺序，次序"
+        ]
+    },
+    {
+        "name": "tesuu",
+        "notation": "手数",
+        "trans": [
+            "てすう②",
+            "麻烦，费事"
+        ]
+    },
+    {
+        "name": "teokure",
+        "notation": "手遅れ",
+        "trans": [
+            "ておくれ②",
+            "为时已晚"
+        ]
+    },
+    {
+        "name": "hareru",
+        "notation": "腫れる",
+        "trans": [
+            "はれる⓪",
+            "肿胀"
+        ]
+    },
+    {
+        "name": "omomuki",
+        "notation": "趣",
+        "trans": [
+            "おもむき④⓪",
+            "大致内容；情趣"
+        ]
+    },
+    {
+        "name": "uketomeru",
+        "notation": "受け止める",
+        "trans": [
+            "うけとめる④⓪",
+            "接住；理解"
+        ]
+    },
+    {
+        "name": "ketobasu",
+        "notation": "蹴飛ばす",
+        "trans": [
+            "けとばす⓪③",
+            "踢；拒绝"
+        ]
+    },
+    {
+        "name": "shibui",
+        "notation": "渋い",
+        "trans": [
+            "しぶい②",
+            "味涩；素雅；不快"
+        ]
+    },
+    {
+        "name": "chyouhou",
+        "notation": "重宝",
+        "trans": [
+            "ちょうほう①",
+            "方便；珍视"
+        ]
+    },
+    {
+        "name": "dekuwasu",
+        "notation": "出くわす",
+        "trans": [
+            "でくわす⓪③",
+            "偶遇，碰到"
+        ]
+    },
+    {
+        "name": "denaoshi",
+        "notation": "出直し",
+        "trans": [
+            "でなおし⓪",
+            "重新开始"
+        ]
+    },
+    {
+        "name": "jyunjiru",
+        "notation": "準じる",
+        "trans": [
+            "じゅんじる⓪③",
+            "按照，以……为基准"
+        ]
+    },
+    {
+        "name": "uruou",
+        "notation": "潤う",
+        "trans": [
+            "うるおう③",
+            "湿润；宽裕起来"
+        ]
+    },
+    {
+        "name": "hatsumimi",
+        "notation": "初耳",
+        "trans": [
+            "はつみみ⓪",
+            "初次听到"
+        ]
+    },
+    {
+        "name": "shyozai",
+        "notation": "所在",
+        "trans": [
+            "しょざい⓪",
+            "所在"
+        ]
+    },
+    {
+        "name": "shyoji",
+        "notation": "所持",
+        "trans": [
+            "しょじ①",
+            "携带"
+        ]
+    },
+    {
+        "name": "tonaeru",
+        "notation": "唱える",
+        "trans": [
+            "となえる③②",
+            "诵，念；提出"
+        ]
+    },
+    {
+        "name": "kogara",
+        "notation": "小柄",
+        "trans": [
+            "こがら⓪",
+            "小花纹；身材矮小"
+        ]
+    },
+    {
+        "name": "aseru",
+        "notation": "焦る",
+        "trans": [
+            "あせる②",
+            "着急"
+        ]
+    },
+    {
+        "name": "kaerimiru",
+        "notation": "省みる",
+        "trans": [
+            "かえりみる④",
+            "反省"
+        ]
+    },
+    {
+        "name": "shyousuru",
+        "notation": "称する",
+        "trans": [
+            "しょうする③",
+            "叫作；自称；谎称"
+        ]
+    },
+    {
+        "name": "sawaru",
+        "notation": "障る",
+        "trans": [
+            "さわる⓪",
+            "妨碍；危害"
+        ]
+    },
+    {
+        "name": "nottoru",
+        "notation": "乗っ取る",
+        "trans": [
+            "のっとる③",
+            "篡夺；劫持"
+        ]
+    },
+    {
+        "name": "nasake",
+        "notation": "情け",
+        "trans": [
+            "なさけ①③",
+            "爱情；慈悲；风趣"
+        ]
+    },
+    {
+        "name": "nasakebukai",
+        "notation": "情け深い",
+        "trans": [
+            "なさけぶかい⑤",
+            "仁慈"
+        ]
+    },
+    {
+        "name": "kuichigau",
+        "notation": "食い違う",
+        "trans": [
+            "くいちがう④⓪",
+            "不一致，有分歧"
+        ]
+    },
+    {
+        "name": "kokorogakeru",
+        "notation": "心掛ける",
+        "trans": [
+            "こころがける⑤",
+            "留心，注意"
+        ]
+    },
+    {
+        "name": "kokochi",
+        "notation": "心地",
+        "trans": [
+            "ここち⓪",
+            "心情，心境"
+        ]
+    },
+    {
+        "name": "furidashi",
+        "notation": "振り出し",
+        "trans": [
+            "ふりだし⓪",
+            "原来的状态，起点"
+        ]
+    },
+    {
+        "name": "hitasu",
+        "notation": "浸す",
+        "trans": [
+            "ひたす⓪②",
+            "浸泡，浸湿"
+        ]
+    },
+    {
+        "name": "moushideru",
+        "notation": "申し出る",
+        "trans": [
+            "もうしでる④",
+            "提出，申请"
+        ]
+    },
+    {
+        "name": "moushiireru",
+        "notation": "申し入れる",
+        "trans": [
+            "もうしいれる⑤⓪",
+            "提议，要求"
+        ]
+    },
+    {
+        "name": "moushibun",
+        "notation": "申し分",
+        "trans": [
+            "もうしぶん⓪③",
+            "可挑剔的地方，缺点；意见，申辩的理由"
+        ]
+    },
+    {
+        "name": "shinsou",
+        "notation": "真相",
+        "trans": [
+            "しんそう⓪",
+            "真相"
+        ]
+    },
+    {
+        "name": "minari",
+        "notation": "身なり",
+        "trans": [
+            "みなり①",
+            "装束，打扮"
+        ]
+    },
+    {
+        "name": "minomawari",
+        "notation": "身の回り",
+        "trans": [
+            "みのまわり⓪",
+            "身边；日常生活"
+        ]
+    },
+    {
+        "name": "minoue",
+        "notation": "身の上",
+        "trans": [
+            "みのうえ⓪④",
+            "身世；命运"
+        ]
+    },
+    {
+        "name": "mijika",
+        "notation": "身近",
+        "trans": [
+            "みぢか⓪",
+            "身边；切身"
+        ]
+    },
+    {
+        "name": "miburi",
+        "notation": "身振り",
+        "trans": [
+            "みぶり①",
+            "姿态，动作"
+        ]
+    },
+    {
+        "name": "karoujite",
+        "notation": "辛うじて",
+        "trans": [
+            "かろうじて②⓪",
+            "好容易才，勉强"
+        ]
+    },
+    {
+        "name": "ninjyou",
+        "notation": "人情",
+        "trans": [
+            "にんじょう①",
+            "人情，情义"
+        ]
+    },
+    {
+        "name": "hitogara",
+        "notation": "人柄",
+        "trans": [
+            "ひとがら⓪",
+            "人品"
+        ]
+    },
+    {
+        "name": "hanahada",
+        "notation": "甚だ",
+        "trans": [
+            "はなはだ⓪",
+            "甚，极其"
+        ]
+    },
+    {
+        "name": "jinsoku",
+        "notation": "迅速",
+        "trans": [
+            "じんそく⓪",
+            "迅速"
+        ]
+    },
+    {
+        "name": "sueru",
+        "notation": "据える",
+        "trans": [
+            "すえる⓪",
+            "安放；使人就某职位"
+        ]
+    },
+    {
+        "name": "seji",
+        "notation": "世辞",
+        "trans": [
+            "せじ⓪",
+            "奉承"
+        ]
+    },
+    {
+        "name": "zesei",
+        "notation": "是正",
+        "trans": [
+            "ぜせい⓪",
+            "改正"
+        ]
+    },
+    {
+        "name": "seika",
+        "notation": "成果",
+        "trans": [
+            "せいか①",
+            "成果"
+        ]
+    },
+    {
+        "name": "masashiku",
+        "notation": "正しく",
+        "trans": [
+            "まさしく②",
+            "的确，确实"
+        ]
+    },
+    {
+        "name": "seitou",
+        "notation": "正当",
+        "trans": [
+            "せいとう⓪",
+            "正当，合理"
+        ]
+    },
+    {
+        "name": "kiyoraka",
+        "notation": "清らか",
+        "trans": [
+            "きよらか②",
+            "清澈；纯洁"
+        ]
+    },
+    {
+        "name": "umaretsuki",
+        "notation": "生まれつき",
+        "trans": [
+            "うまれつき⓪",
+            "天生"
+        ]
+    },
+    {
+        "name": "hayasu",
+        "notation": "生やす",
+        "trans": [
+            "はやす②",
+            "使生长；留"
+        ]
+    },
+    {
+        "name": "namagusai",
+        "notation": "生臭い",
+        "trans": [
+            "なまぐさい④",
+            "腥，膻"
+        ]
+    },
+    {
+        "name": "kimajime",
+        "notation": "生真面目",
+        "trans": [
+            "きまじめ②",
+            "一本正经"
+        ]
+    },
+    {
+        "name": "namami",
+        "notation": "生身",
+        "trans": [
+            "なまみ②⓪",
+            "活人，有血有肉的人"
+        ]
+    },
+    {
+        "name": "seimei",
+        "notation": "声明",
+        "trans": [
+            "せいめい⓪",
+            "声明"
+        ]
+    },
+    {
+        "name": "setsunai",
+        "notation": "切ない",
+        "trans": [
+            "せつない③",
+            "难过的，悲痛的"
+        ]
+    },
+    {
+        "name": "kirikaeru",
+        "notation": "切り替える",
+        "trans": [
+            "きりかえる④③⓪",
+            "更换，转换"
+        ]
+    },
+    {
+        "name": "setsujitsu",
+        "notation": "切実",
+        "trans": [
+            "せつじつ⓪",
+            "恳切；切实"
+        ]
+    },
+    {
+        "name": "orikaesu",
+        "notation": "折り返す",
+        "trans": [
+            "おりかえす⓪③",
+            "翻折；折回"
+        ]
+    },
+    {
+        "name": "moukeru",
+        "notation": "設ける",
+        "trans": [
+            "もうける③",
+            "准备；设立"
+        ]
+    },
+    {
+        "name": "moppara",
+        "notation": "専ら",
+        "trans": [
+            "もっぱら⓪①",
+            "专门"
+        ]
+    },
+    {
+        "name": "asamashii",
+        "notation": "浅ましい",
+        "trans": [
+            "あさましい④",
+            "（人品）肤浅的；卑鄙的，无耻下流的；（外表）寒酸的；（事情）意外的"
+        ]
+    },
+    {
+        "name": "maemotte",
+        "notation": "前もって",
+        "trans": [
+            "まえもって③⓪",
+            "预先，事先"
+        ]
+    },
+    {
+        "name": "maeoki",
+        "notation": "前置き",
+        "trans": [
+            "まえおき⓪④",
+            "序言，开场白"
+        ]
+    },
+    {
+        "name": "habamu",
+        "notation": "阻む",
+        "trans": [
+            "はばむ②",
+            "阻挡，阻碍"
+        ]
+    },
+    {
+        "name": "ayatsuru",
+        "notation": "操る",
+        "trans": [
+            "あやつる③",
+            "操作；暗中控制"
+        ]
+    },
+    {
+        "name": "tabaneru",
+        "notation": "束ねる",
+        "trans": [
+            "たばねる③",
+            "捆；管理"
+        ]
+    },
+    {
+        "name": "tsukanoma",
+        "notation": "束の間",
+        "trans": [
+            "つかのま⓪",
+            "短暂，一刹那"
+        ]
+    },
+    {
+        "name": "tayou",
+        "notation": "多様",
+        "trans": [
+            "たよう⓪",
+            "多种多样"
+        ]
+    },
+    {
+        "name": "uchikomu",
+        "notation": "打ち込む",
+        "trans": [
+            "うちこむ③⓪",
+            "埋头，专心致志"
+        ]
+    },
+    {
+        "name": "uchikiru",
+        "notation": "打ち切る",
+        "trans": [
+            "うちきる③⓪",
+            "（中途）停止"
+        ]
+    },
+    {
+        "name": "teisai",
+        "notation": "体裁",
+        "trans": [
+            "ていさい⓪",
+            "外表；体面"
+        ]
+    },
+    {
+        "name": "obiru",
+        "notation": "帯びる",
+        "trans": [
+            "おびる②⓪",
+            "带有；肩负"
+        ]
+    },
+    {
+        "name": "machidooshii",
+        "notation": "待ち遠しい",
+        "trans": [
+            "まちどおしい⑤",
+            "急切等待，盼望已久"
+        ]
+    },
+    {
+        "name": "todokooru",
+        "notation": "滞る",
+        "trans": [
+            "とどこおる⓪③",
+            "拖延；拖欠"
+        ]
+    },
+    {
+        "name": "dainashi",
+        "notation": "台無し",
+        "trans": [
+            "だいなし⓪",
+            "糟蹋，断送"
+        ]
+    },
+    {
+        "name": "oogesa",
+        "notation": "大げさ",
+        "trans": [
+            "おおげさ⓪",
+            "夸张"
+        ]
+    },
+    {
+        "name": "oosuji",
+        "notation": "大筋",
+        "trans": [
+            "おおすじ⓪",
+            "梗概"
+        ]
+    },
+    {
+        "name": "oogara",
+        "notation": "大柄",
+        "trans": [
+            "おおがら⓪",
+            "身材高大；大花纹"
+        ]
+    },
+    {
+        "name": "ookata",
+        "notation": "大方",
+        "trans": [
+            "おおかた⓪",
+            "一般人；大致"
+        ]
+    },
+    {
+        "name": "tanitsu",
+        "notation": "単一",
+        "trans": [
+            "たんいつ⓪",
+            "单一"
+        ]
+    },
+    {
+        "name": "nageku",
+        "notation": "嘆く",
+        "trans": [
+            "なげく②",
+            "悲叹，叹惋"
+        ]
+    },
+    {
+        "name": "ninau",
+        "notation": "担う",
+        "trans": [
+            "になう②",
+            "担负"
+        ]
+    },
+    {
+        "name": "hokorobiru",
+        "notation": "綻びる",
+        "trans": [
+            "ほころびる④",
+            "开绽；（花蕾）微开；微笑"
+        ]
+    },
+    {
+        "name": "hajiku",
+        "notation": "弾[はじ]く",
+        "trans": [
+            "はじく②",
+            "弹；防（水）；打（算盘）"
+        ]
+    },
+    {
+        "name": "hazumu",
+        "notation": "弾む",
+        "trans": [
+            "はずむ⓪",
+            "跳，弹；起劲；激动"
+        ]
+    },
+    {
+        "name": "neuchi",
+        "notation": "値打ち",
+        "trans": [
+            "ねうち⓪",
+            "估价，评价；价值"
+        ]
+    },
+    {
+        "name": "hajiru",
+        "notation": "恥じる",
+        "trans": [
+            "はじる②",
+            "羞耻，羞愧"
+        ]
+    },
+    {
+        "name": "hajirau",
+        "notation": "恥らう",
+        "trans": [
+            "はじらう③",
+            "害羞"
+        ]
+    },
+    {
+        "name": "kikazaru",
+        "notation": "着飾る",
+        "trans": [
+            "きかざる③",
+            "盛装打扮"
+        ]
+    },
+    {
+        "name": "chyakumoku",
+        "notation": "着目",
+        "trans": [
+            "ちゃくもく⓪",
+            "着眼，注目"
+        ]
+    },
+    {
+        "name": "chyuushyou",
+        "notation": "中傷",
+        "trans": [
+            "ちゅうしょう⓪",
+            "中伤"
+        ]
+    },
+    {
+        "name": "kizashi",
+        "notation": "兆し",
+        "trans": [
+            "きざし⓪",
+            "预兆，兆头"
+        ]
+    },
+    {
+        "name": "koriru",
+        "notation": "懲りる",
+        "trans": [
+            "こりる②",
+            "尝到苦头不想再做"
+        ]
+    },
+    {
+        "name": "hakadoru",
+        "notation": "捗る",
+        "trans": [
+            "はかどる③",
+            "进展顺利"
+        ]
+    },
+    {
+        "name": "oikomu",
+        "notation": "追い込む",
+        "trans": [
+            "おいこむ③",
+            "逼入，使陷入"
+        ]
+    },
+    {
+        "name": "tsuusetsu",
+        "notation": "痛切",
+        "trans": [
+            "つうせつ⓪",
+            "痛切，深切"
+        ]
+    },
+    {
+        "name": "sadamaru",
+        "notation": "定まる",
+        "trans": [
+            "さだまる③",
+            "决定；安定"
+        ]
+    },
+    {
+        "name": "teigi",
+        "notation": "定義",
+        "trans": [
+            "ていぎ①③",
+            "定义"
+        ]
+    },
+    {
+        "name": "teikei",
+        "notation": "提携",
+        "trans": [
+            "ていけい⓪",
+            "提携，合作"
+        ]
+    },
+    {
+        "name": "tekigi",
+        "notation": "適宜",
+        "trans": [
+            "てきぎ①",
+            "酌情；适当"
+        ]
+    },
+    {
+        "name": "tessuru",
+        "notation": "徹する",
+        "trans": [
+            "てっする⓪③",
+            "彻底做到；贯通；彻夜，通宵"
+        ]
+    },
+    {
+        "name": "tenjiru",
+        "notation": "転じる",
+        "trans": [
+            "てんじる⓪③",
+            "转换，改变"
+        ]
+    },
+    {
+        "name": "netamu",
+        "notation": "妬む",
+        "trans": [
+            "ねたむ②",
+            "嫉妒"
+        ]
+    },
+    {
+        "name": "touroku",
+        "notation": "登録",
+        "trans": [
+            "とうろく⓪",
+            "登记，注册"
+        ]
+    },
+    {
+        "name": "togireru",
+        "notation": "途切れる",
+        "trans": [
+            "とぎれる③",
+            "间断，中断"
+        ]
+    },
+    {
+        "name": "todaeru",
+        "notation": "途絶える",
+        "trans": [
+            "とだえる③",
+            "中断"
+        ]
+    },
+    {
+        "name": "tsutomete",
+        "notation": "努めて",
+        "trans": [
+            "つとめて②",
+            "尽量，尽可能"
+        ]
+    },
+    {
+        "name": "dowasure",
+        "notation": "度忘れ",
+        "trans": [
+            "どわすれ②",
+            "一时想不起"
+        ]
+    },
+    {
+        "name": "toutei",
+        "notation": "到底",
+        "trans": [
+            "とうてい⓪",
+            "怎么也（不），无论如何也（不）"
+        ]
+    },
+    {
+        "name": "fumaeru",
+        "notation": "踏まえる",
+        "trans": [
+            "ふまえる③②",
+            "踏，用力踏；根据，立足于"
+        ]
+    },
+    {
+        "name": "fumikomu",
+        "notation": "踏み込む",
+        "trans": [
+            "ふみこむ③",
+            "用力踩；闯入；深入"
+        ]
+    },
+    {
+        "name": "nogasu",
+        "notation": "逃す",
+        "trans": [
+            "のがす②",
+            "放跑；错过"
+        ]
+    },
+    {
+        "name": "nogareru",
+        "notation": "逃れる",
+        "trans": [
+            "のがれる③",
+            "逃脱，摆脱"
+        ]
+    },
+    {
+        "name": "doukan",
+        "notation": "同感",
+        "trans": [
+            "どうかん⓪",
+            "同感，赞同"
+        ]
+    },
+    {
+        "name": "doutou",
+        "notation": "同等",
+        "trans": [
+            "どうとう⓪",
+            "同等"
+        ]
+    },
+    {
+        "name": "doudou",
+        "notation": "堂々",
+        "trans": [
+            "どうどう③⓪",
+            "（行为举止）大大方方"
+        ]
+    },
+    {
+        "name": "tsupparu",
+        "notation": "突っ張る",
+        "trans": [
+            "つっぱる③",
+            "（肌肉）僵硬；坚持己见"
+        ]
+    },
+    {
+        "name": "naishyo",
+        "notation": "内緒",
+        "trans": [
+            "ないしょ③⓪",
+            "秘密"
+        ]
+    },
+    {
+        "name": "naishin",
+        "notation": "内心",
+        "trans": [
+            "ないしん⓪",
+            "内心，暗地里"
+        ]
+    },
+    {
+        "name": "uchiwake",
+        "notation": "内訳",
+        "trans": [
+            "うちわけ⓪",
+            "明细，细目"
+        ]
+    },
+    {
+        "name": "hidori",
+        "notation": "日取り",
+        "trans": [
+            "ひどり⓪",
+            "日期，日子"
+        ]
+    },
+    {
+        "name": "nyuushyu",
+        "notation": "入手",
+        "trans": [
+            "にゅうしゅ⓪①",
+            "得到，到手"
+        ]
+    },
+    {
+        "name": "ninmei",
+        "notation": "任命",
+        "trans": [
+            "にんめい⓪",
+            "任命"
+        ]
+    },
+    {
+        "name": "nenchyou",
+        "notation": "年長",
+        "trans": [
+            "ねんちょう⓪",
+            "年长"
+        ]
+    },
+    {
+        "name": "nounyuu",
+        "notation": "納入",
+        "trans": [
+            "のうにゅう⓪",
+            "缴纳，上缴"
+        ]
+    },
+    {
+        "name": "haaku",
+        "notation": "把握",
+        "trans": [
+            "はあく⓪",
+            "掌握，理解"
+        ]
+    },
+    {
+        "name": "hason",
+        "notation": "破損",
+        "trans": [
+            "はそん⓪",
+            "破损，损坏"
+        ]
+    },
+    {
+        "name": "nonoshiru",
+        "notation": "罵る",
+        "trans": [
+            "ののしる③",
+            "谩骂"
+        ]
+    },
+    {
+        "name": "sutareru",
+        "notation": "廃れる",
+        "trans": [
+            "すたれる⓪③",
+            "废除；过时"
+        ]
+    },
+    {
+        "name": "haigo",
+        "notation": "背後",
+        "trans": [
+            "はいご①",
+            "背后"
+        ]
+    },
+    {
+        "name": "haibun",
+        "notation": "配分",
+        "trans": [
+            "はいぶん⓪",
+            "分配"
+        ]
+    },
+    {
+        "name": "hairetsu",
+        "notation": "配列",
+        "trans": [
+            "はいれつ⓪",
+            "排列"
+        ]
+    },
+    {
+        "name": "hageru",
+        "notation": "剥げる",
+        "trans": [
+            "はげる②",
+            "褪色；剥落"
+        ]
+    },
+    {
+        "name": "hakujyou",
+        "notation": "白状",
+        "trans": [
+            "はくじょう①",
+            "坦白，招供"
+        ]
+    },
+    {
+        "name": "hakugai",
+        "notation": "迫害",
+        "trans": [
+            "はくがい⓪",
+            "迫害"
+        ]
+    },
+    {
+        "name": "bakuzen",
+        "notation": "漠然",
+        "trans": [
+            "ばくぜん⓪",
+            "模糊"
+        ]
+    },
+    {
+        "name": "hossa",
+        "notation": "発作",
+        "trans": [
+            "ほっさ⓪",
+            "（疾病）发作"
+        ]
+    },
+    {
+        "name": "hossoku",
+        "notation": "発足",
+        "trans": [
+            "ほっそく⓪",
+            "（组织等）成立，开始活动"
+        ]
+    },
+    {
+        "name": "nukedasu",
+        "notation": "抜け出す",
+        "trans": [
+            "ぬけだす③",
+            "偷偷溜走；开始脱落"
+        ]
+    },
+    {
+        "name": "hanpa",
+        "notation": "半端",
+        "trans": [
+            "はんぱ⓪",
+            "尾数；不完整；不彻底"
+        ]
+    },
+    {
+        "name": "soru",
+        "notation": "反る",
+        "trans": [
+            "そる①",
+            "弯曲，挺起胸脯"
+        ]
+    },
+    {
+        "name": "hanpatsu",
+        "notation": "反発",
+        "trans": [
+            "はんぱつ⓪",
+            "弹回；反感；反弹"
+        ]
+    },
+    {
+        "name": "hanjyou",
+        "notation": "繁盛",
+        "trans": [
+            "はんじょう①",
+            "繁荣，兴隆"
+        ]
+    },
+    {
+        "name": "hikan",
+        "notation": "悲観",
+        "trans": [
+            "ひかん⓪",
+            "悲观"
+        ]
+    },
+    {
+        "name": "tsuiyasu",
+        "notation": "費やす",
+        "trans": [
+            "ついやす③",
+            "花费，耗费"
+        ]
+    },
+    {
+        "name": "hitteki",
+        "notation": "匹敵",
+        "trans": [
+            "ひってき⓪",
+            "匹敌，比得上"
+        ]
+    },
+    {
+        "name": "hisshyuu",
+        "notation": "必修",
+        "trans": [
+            "ひっしゅう⓪",
+            "必修"
+        ]
+    },
+    {
+        "name": "hitsuzen",
+        "notation": "必然",
+        "trans": [
+            "ひつぜん⓪",
+            "必然"
+        ]
+    },
+    {
+        "name": "binbou",
+        "notation": "貧乏",
+        "trans": [
+            "びんぼう①",
+            "贫穷"
+        ]
+    },
+    {
+        "name": "fui",
+        "notation": "不意",
+        "trans": [
+            "ふい⓪",
+            "意外，想不到"
+        ]
+    },
+    {
+        "name": "fushin",
+        "notation": "不審",
+        "trans": [
+            "ふしん⓪",
+            "可疑"
+        ]
+    },
+    {
+        "name": "fushin",
+        "notation": "不振",
+        "trans": [
+            "ふしん⓪",
+            "不兴旺，萧条"
+        ]
+    },
+    {
+        "name": "futou",
+        "notation": "不当",
+        "trans": [
+            "ふとう⓪",
+            "不正当，非法"
+        ]
+    },
+    {
+        "name": "fuhen",
+        "notation": "普遍",
+        "trans": [
+            "ふへん⓪",
+            "普遍，一般"
+        ]
+    },
+    {
+        "name": "ou",
+        "notation": "負う",
+        "trans": [
+            "おう⓪",
+            "承担；蒙受；仰赖"
+        ]
+    },
+    {
+        "name": "kutsugaesu",
+        "notation": "覆す",
+        "trans": [
+            "くつがえす③",
+            "打翻；推翻"
+        ]
+    },
+    {
+        "name": "butsugi",
+        "notation": "物議",
+        "trans": [
+            "ぶつぎ①",
+            "纷纷议论"
+        ]
+    },
+    {
+        "name": "monozuki",
+        "notation": "物好き",
+        "trans": [
+            "ものずき③②",
+            "好奇，好事"
+        ]
+    },
+    {
+        "name": "busshi",
+        "notation": "物資",
+        "trans": [
+            "ぶっし①",
+            "物资"
+        ]
+    },
+    {
+        "name": "monotarinai",
+        "notation": "物足りない",
+        "trans": [
+            "ものたりない⓪⑤",
+            "不够满意的，感到欠缺的"
+        ]
+    },
+    {
+        "name": "konagona",
+        "notation": "粉々",
+        "trans": [
+            "こなごな⓪",
+            "粉碎，稀巴烂"
+        ]
+    },
+    {
+        "name": "magirawashii",
+        "notation": "紛らわしい",
+        "trans": [
+            "まぎらわしい⑤",
+            "容易混淆"
+        ]
+    },
+    {
+        "name": "magireru",
+        "notation": "紛れる",
+        "trans": [
+            "まぎれる③",
+            "混淆；混进；排解郁闷或烦恼"
+        ]
+    },
+    {
+        "name": "hiratai",
+        "notation": "平たい",
+        "trans": [
+            "ひらたい⓪",
+            "扁平的；浅显易懂的"
+        ]
+    },
+    {
+        "name": "katakoto",
+        "notation": "片言",
+        "trans": [
+            "かたこと⓪",
+            "只言片语"
+        ]
+    },
+    {
+        "name": "benkai",
+        "notation": "弁解",
+        "trans": [
+            "べんかい⓪",
+            "辩解"
+        ]
+    },
+    {
+        "name": "tsunoru",
+        "notation": "募る",
+        "trans": [
+            "つのる②",
+            "招募；（某种感觉）越来越厉害"
+        ]
+    },
+    {
+        "name": "houjiru",
+        "notation": "報じる",
+        "trans": [
+            "ほうじる⓪③",
+            "报答；报道"
+        ]
+    },
+    {
+        "name": "hourikomu",
+        "notation": "放り込む",
+        "trans": [
+            "ほうりこむ④",
+            "扔进去"
+        ]
+    },
+    {
+        "name": "houki",
+        "notation": "放棄",
+        "trans": [
+            "ほうき①⓪",
+            "放弃"
+        ]
+    },
+    {
+        "name": "toboshii",
+        "notation": "乏しい",
+        "trans": [
+            "とぼしい③⓪",
+            "缺乏；贫困"
+        ]
+    },
+    {
+        "name": "katawara",
+        "notation": "傍ら",
+        "trans": [
+            "かたわら⓪",
+            "旁边；……的同时"
+        ]
+    },
+    {
+        "name": "bosshyuu",
+        "notation": "没収",
+        "trans": [
+            "ぼっしゅう⓪",
+            "没收，查抄"
+        ]
+    },
+    {
+        "name": "honne",
+        "notation": "本音",
+        "trans": [
+            "ほんね⓪",
+            "真心话"
+        ]
+    },
+    {
+        "name": "honkaku",
+        "notation": "本格",
+        "trans": [
+            "ほんかく⓪",
+            "正式，正规"
+        ]
+    },
+    {
+        "name": "honba",
+        "notation": "本場",
+        "trans": [
+            "ほんば⓪",
+            "原产地；正宗"
+        ]
+    },
+    {
+        "name": "sasuru",
+        "notation": "摩る",
+        "trans": [
+            "さする⓪②",
+            "摸，轻抚"
+        ]
+    },
+    {
+        "name": "manjyou",
+        "notation": "満場",
+        "trans": [
+            "まんじょう⓪",
+            "全场"
+        ]
+    },
+    {
+        "name": "mikaku",
+        "notation": "味覚",
+        "trans": [
+            "みかく⓪",
+            "味觉"
+        ]
+    },
+    {
+        "name": "imadani",
+        "notation": "未だに",
+        "trans": [
+            "いまだに⓪",
+            "至今仍然（未）"
+        ]
+    },
+    {
+        "name": "miren",
+        "notation": "未練",
+        "trans": [
+            "みれん①⓪",
+            "依恋，不死心"
+        ]
+    },
+    {
+        "name": "misshyuu",
+        "notation": "密集",
+        "trans": [
+            "みっしゅう⓪",
+            "密集"
+        ]
+    },
+    {
+        "name": "muyami",
+        "notation": "無闇",
+        "trans": [
+            "むやみ①",
+            "胡乱；过分"
+        ]
+    },
+    {
+        "name": "mukuchi",
+        "notation": "無口",
+        "trans": [
+            "むくち①",
+            "沉默寡言"
+        ]
+    },
+    {
+        "name": "muchya",
+        "notation": "無茶",
+        "trans": [
+            "むちゃ①",
+            "没道理，荒唐"
+        ]
+    },
+    {
+        "name": "muron",
+        "notation": "無論",
+        "trans": [
+            "むろん⓪",
+            "不用说，当然"
+        ]
+    },
+    {
+        "name": "nadakai",
+        "notation": "名高い",
+        "trans": [
+            "なだかい③",
+            "有名的，闻名的"
+        ]
+    },
+    {
+        "name": "nagori",
+        "notation": "名残",
+        "trans": [
+            "なごり③",
+            "余韵；惜别"
+        ]
+    },
+    {
+        "name": "meichyuu",
+        "notation": "命中",
+        "trans": [
+            "めいちゅう⓪",
+            "命中"
+        ]
+    },
+    {
+        "name": "meihaku",
+        "notation": "明白",
+        "trans": [
+            "めいはく⓪",
+            "明显，确凿"
+        ]
+    },
+    {
+        "name": "meiryou",
+        "notation": "明瞭",
+        "trans": [
+            "めいりょう⓪",
+            "清楚，明了"
+        ]
+    },
+    {
+        "name": "horobiru",
+        "notation": "滅びる",
+        "trans": [
+            "ほろびる③⓪",
+            "消亡，灭亡"
+        ]
+    },
+    {
+        "name": "mensuru",
+        "notation": "面する",
+        "trans": [
+            "めんする③",
+            "面对；面临"
+        ]
+    },
+    {
+        "name": "menboku",
+        "notation": "面目",
+        "trans": [
+            "めんぼく⓪③",
+            "脸面，体面"
+        ]
+    },
+    {
+        "name": "mezamashii",
+        "notation": "目覚しい",
+        "trans": [
+            "めざましい④",
+            "惊人的"
+        ]
+    },
+    {
+        "name": "memori",
+        "notation": "目盛り",
+        "trans": [
+            "めもり③⓪",
+            "度数，刻度"
+        ]
+    },
+    {
+        "name": "yofuke",
+        "notation": "夜更け",
+        "trans": [
+            "よふけ③",
+            "深夜"
+        ]
+    },
+    {
+        "name": "yagai",
+        "notation": "野外",
+        "trans": [
+            "やがい①⓪",
+            "野外"
+        ]
+    },
+    {
+        "name": "yashin",
+        "notation": "野心",
+        "trans": [
+            "やしん①⓪",
+            "野心，抱负"
+        ]
+    },
+    {
+        "name": "yasei",
+        "notation": "野生",
+        "trans": [
+            "やせい⓪",
+            "野生"
+        ]
+    },
+    {
+        "name": "yuusen",
+        "notation": "優先",
+        "trans": [
+            "ゆうせん⓪",
+            "优先"
+        ]
+    },
+    {
+        "name": "yuubou",
+        "notation": "有望",
+        "trans": [
+            "ゆうぼう⓪",
+            "有好的前景"
+        ]
+    },
+    {
+        "name": "arisama",
+        "notation": "有様",
+        "trans": [
+            "ありさま②⓪",
+            "样子，状态"
+        ]
+    },
+    {
+        "name": "yuuzuu",
+        "notation": "融通",
+        "trans": [
+            "ゆうずう⓪",
+            "借贷；随机应变"
+        ]
+    },
+    {
+        "name": "yochi",
+        "notation": "余地",
+        "trans": [
+            "よち①",
+            "余地"
+        ]
+    },
+    {
+        "name": "yohodo",
+        "notation": "余程",
+        "trans": [
+            "よほど⓪",
+            "很，相当；很想……，差一点就……"
+        ]
+    },
+    {
+        "name": "yusaburu",
+        "notation": "揺さぶる",
+        "trans": [
+            "ゆさぶる⓪",
+            "摇晃；使……动摇"
+        ]
+    },
+    {
+        "name": "yuragu",
+        "notation": "揺らぐ",
+        "trans": [
+            "ゆらぐ②⓪",
+            "摇晃；动摇"
+        ]
+    },
+    {
+        "name": "yashinau",
+        "notation": "養う",
+        "trans": [
+            "やしなう③⓪",
+            "抚养；培养"
+        ]
+    },
+    {
+        "name": "karamu",
+        "notation": "絡む",
+        "trans": [
+            "からむ②",
+            "牵涉"
+        ]
+    },
+    {
+        "name": "midasu",
+        "notation": "乱す",
+        "trans": [
+            "みだす②",
+            "弄乱；扰乱；蛊惑"
+        ]
+    },
+    {
+        "name": "nagashi",
+        "notation": "流し",
+        "trans": [
+            "ながし③①",
+            "冲（水）；洗碗池；澡堂内冲洗身体处"
+        ]
+    },
+    {
+        "name": "hiyakasu",
+        "notation": "冷やかす",
+        "trans": [
+            "ひやかす③",
+            "戏弄；逛（只看而不买）"
+        ]
+    },
+    {
+        "name": "sakeru",
+        "notation": "裂ける",
+        "trans": [
+            "さける②",
+            "裂开，破裂"
+        ]
+    },
+    {
+        "name": "neru",
+        "notation": "練る",
+        "trans": [
+            "ねる①",
+            "推敲，研究"
+        ]
+    },
+    {
+        "name": "tsuranaru",
+        "notation": "連なる",
+        "trans": [
+            "つらなる③",
+            "绵延；参加；关系到"
+        ]
+    },
+    {
+        "name": "tsuraneru",
+        "notation": "連ねる",
+        "trans": [
+            "つらねる③",
+            "连成一排；陪同"
+        ]
+    },
+    {
+        "name": "nagoyaka",
+        "notation": "和やか",
+        "trans": [
+            "なごやか②",
+            "和睦，安详"
+        ]
+    },
+    {
+        "name": "makanau",
+        "notation": "賄う",
+        "trans": [
+            "まかなう③",
+            "供给（饭食）；维持"
+        ]
+    },
+    {
+        "name": "udemae",
+        "notation": "腕前",
+        "trans": [
+            "うでまえ⓪③",
+            "本事，才能"
+        ]
+    },
+    {
+        "name": "komoru",
+        "notation": "籠もる",
+        "trans": [
+            "こもる②",
+            "闭门不出；充满"
+        ]
+    },
+    {
+        "name": "ikanimo",
+        "notation": "いかにも",
+        "trans": [
+            "いかにも②",
+            "实在；果然"
+        ]
+    },
+    {
+        "name": "unubore",
+        "notation": "うぬぼれ",
+        "trans": [
+            "うぬぼれ⓪",
+            "自负，骄傲自大"
+        ]
+    },
+    {
+        "name": "kanawanai",
+        "notation": "かなわない",
+        "trans": [
+            "かなわない④",
+            "不能实现；比不上；受不了"
+        ]
+    },
+    {
+        "name": "shikku",
+        "notation": "シック",
+        "trans": [
+            "シック①",
+            "(英) chic 雅致"
+        ]
+    },
+    {
+        "name": "shitoyaka",
+        "notation": "しとやか",
+        "trans": [
+            "しとやか②",
+            "端庄，文静"
+        ]
+    },
+    {
+        "name": "zubunure",
+        "notation": "ずぶぬれ",
+        "trans": [
+            "ずぶぬれ⓪",
+            "全身湿透"
+        ]
+    },
+    {
+        "name": "tobokeru",
+        "notation": "とぼける",
+        "trans": [
+            "とぼける③",
+            "装糊涂；出洋相"
+        ]
+    },
+    {
+        "name": "noirooze",
+        "notation": "ノイローゼ",
+        "trans": [
+            "ノイローゼ③",
+            "(德) Neurose 神经衰弱"
+        ]
+    },
+    {
+        "name": "ikkyoni",
+        "notation": "一挙に",
+        "trans": [
+            "いっきょに①",
+            "一举"
+        ]
+    },
+    {
+        "name": "shitadori",
+        "notation": "下取り",
+        "trans": [
+            "したどり⓪",
+            "以旧换新"
+        ]
+    },
+    {
+        "name": "kaifuu",
+        "notation": "開封",
+        "trans": [
+            "かいふう⓪",
+            "开封；拆开"
+        ]
+    },
+    {
+        "name": "tsutsushimu",
+        "notation": "謹む",
+        "trans": [
+            "つつしむ③",
+            "谨，谦恭，有礼貌"
+        ]
+    },
+    {
+        "name": "musubi",
+        "notation": "結び",
+        "trans": [
+            "むすび⓪",
+            "结；结合；结束"
+        ]
+    },
+    {
+        "name": "koko",
+        "notation": "個々",
+        "trans": [
+            "ここ①",
+            "各个"
+        ]
+    },
+    {
+        "name": "tegakeru",
+        "notation": "手掛ける",
+        "trans": [
+            "てがける③",
+            "亲自负责；栽培"
+        ]
+    },
+    {
+        "name": "shinnin",
+        "notation": "信任",
+        "trans": [
+            "しんにん⓪",
+            "信任"
+        ]
+    },
+    {
+        "name": "shinpin",
+        "notation": "新品",
+        "trans": [
+            "しんぴん⓪",
+            "新商品"
+        ]
+    },
+    {
+        "name": "seisan",
+        "notation": "精算",
+        "trans": [
+            "せいさん⓪",
+            "细算；补（票）"
+        ]
+    },
+    {
+        "name": "kanau",
+        "notation": "敵[かな]う",
+        "trans": [
+            "かなう②",
+            "做得到；比得上"
+        ]
+    },
+    {
+        "name": "kanau",
+        "notation": "適[かな]う",
+        "trans": [
+            "かなう②",
+            "符合，合乎"
+        ]
+    },
+    {
+        "name": "nagedasu",
+        "notation": "投げ出す",
+        "trans": [
+            "なげだす③⓪",
+            "中途放弃；豁出；扔出去"
+        ]
+    },
+    {
+        "name": "hageru",
+        "notation": "禿[は]げる",
+        "trans": [
+            "はげる②",
+            "（山）秃；秃顶"
+        ]
+    },
+    {
+        "name": "totsujyo",
+        "notation": "突如",
+        "trans": [
+            "とつじょ①⓪",
+            "突然，突如其来"
+        ]
+    },
+    {
+        "name": "haikei",
+        "notation": "背景",
+        "trans": [
+            "はいけい⓪",
+            "背景"
+        ]
+    },
+    {
+        "name": "hagu",
+        "notation": "剥ぐ",
+        "trans": [
+            "はぐ①",
+            "剥；剥夺"
+        ]
+    },
+    {
+        "name": "manugareru",
+        "notation": "免れる",
+        "trans": [
+            "まぬがれる④",
+            "避免；摆脱"
+        ]
+    },
+    {
+        "name": "yousuru",
+        "notation": "要する",
+        "trans": [
+            "ようする③",
+            "需要"
+        ]
+    },
+    {
+        "name": "nozomu",
+        "notation": "臨む",
+        "trans": [
+            "のぞむ⓪",
+            "面临；出席"
+        ]
+    },
+    {
+        "name": "tsuburu",
+        "notation": "瞑[つぶ]る",
+        "trans": [
+            "つぶる⓪",
+            "瞑目，闭眼"
+        ]
+    },
+    {
+        "name": "kai",
+        "notation": "〜界",
+        "trans": [
+            "かい",
+            "……界"
+        ]
+    },
+    {
+        "name": "obiyakasu",
+        "notation": "脅[おびや]かす",
+        "trans": [
+            "おびやかす④",
+            "威胁"
+        ]
+    },
+    {
+        "name": "sukoyaka",
+        "notation": "健やか",
+        "trans": [
+            "すこやか②",
+            "健壮，健康；健全"
+        ]
+    },
+    {
+        "name": "konomashii",
+        "notation": "好ましい",
+        "trans": [
+            "このましい④",
+            "令人满意"
+        ]
+    },
+    {
+        "name": "jyou",
+        "notation": "情",
+        "trans": [
+            "じょう⓪",
+            "情，感情；情面，人情；同情；爱情，情爱"
+        ]
+    },
+    {
+        "name": "furikaeru",
+        "notation": "振り返る",
+        "trans": [
+            "ふりかえる③",
+            "回头看；回顾"
+        ]
+    },
+    {
+        "name": "iki",
+        "notation": "粋",
+        "trans": [
+            "いき⓪",
+            "潇洒，帅"
+        ]
+    },
+    {
+        "name": "kuguru",
+        "notation": "くぐる",
+        "trans": [
+            "くぐる②",
+            "通过，走过，钻过；潜（水）；钻空子"
+        ]
+    },
+    {
+        "name": "yusugu",
+        "notation": "ゆすぐ",
+        "trans": [
+            "ゆすぐ⓪",
+            "涤，涮洗，漂洗，冲洗；漱口"
+        ]
+    },
+    {
+        "name": "tsumamu",
+        "notation": "つまむ",
+        "trans": [
+            "つまむ⓪",
+            "捏，撮 ；夹；吃；摘取，摘要"
+        ]
+    },
+    {
+        "name": "tou",
+        "notation": "当〜",
+        "trans": [
+            "とう①",
+            "这个，现在；当前，当面"
+        ]
+    },
+    {
+        "name": "bunan",
+        "notation": "無難",
+        "trans": [
+            "ぶなん⓪",
+            "没有缺点，无可非议，说得过去；无灾无难"
+        ]
+    },
+    {
+        "name": "yugamu",
+        "notation": "ゆがむ",
+        "trans": [
+            "ゆがむ⓪",
+            "（物体）歪斜；（内心）不正"
+        ]
+    },
+    {
+        "name": "susugu",
+        "notation": "すすぐ",
+        "trans": [
+            "すすぐ⓪",
+            "（用水）涮，涤，洗濯；漱口；（不好的评价）洗掉，雪除"
+        ]
+    },
+    {
+        "name": "koukou",
+        "notation": "煌々",
+        "trans": [
+            "こうこう⓪",
+            "光亮，辉煌"
+        ]
+    },
+    {
+        "name": "odokasu",
+        "notation": "脅[おど]かす",
+        "trans": [
+            "おどかす⓪",
+            "威胁，威逼，威吓；胁迫 ；恐吓"
+        ]
+    }
+]
